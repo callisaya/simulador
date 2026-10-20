@@ -1109,1104 +1109,1324 @@ window.QUESTION_BANK = {
   "title": "Ley N.º 070 Avelino Siñani – Elizardo Pérez",
   "questions": [
    {
-    "q": "En el marco de la construcción de un nuevo modelo de Estado, el Artículo 1 de la CPE define los fundamentos sobre los cuales se erige la nación boliviana. ¿En qué ámbitos específicos establece este artículo que se funda el Estado?",
+    "q": "El Título I, Capítulo I de la Ley 070 establece los mandatos constitucionales de la educación. En relación con lo dispuesto en el Artículo 1, parágrafos 8 y 9, ¿cuál es el límite de obligatoriedad de la educación y la condición de la educación fiscal en todos sus niveles?",
     "options": [
-     "El Artículo 1 de la Constitución Política del Estado establece que Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, dentro del proceso integrador del país.",
-     "El Artículo 1 de la Constitución Política del Estado establece que Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y regional, dentro del proceso integrador del país.",
-     "El Artículo 1 de la Constitución Política del Estado establece que Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y territorial, dentro del proceso integrador del país.",
-     "El Artículo 1 de la Constitución Política del Estado establece que Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y sociológico, dentro del proceso integrador del país."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 1 de la CPE señala textualmente: \"Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario... Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, dentro del proceso integrador del país.\""
-   },
-   {
-    "q": "El Artículo 5 de la CPE regula el régimen de idiomas oficiales, reconociendo la diversidad cultural y lingüística como pilar del Estado. De acuerdo con el texto literal del parágrafo I, ¿cómo se define el estatus de los idiomas indígenas?",
-    "options": [
-     "El Artículo 5 de la Constitución Política del Estado establece que son idiomas oficiales del Estado el castellano y algunos idiomas de las naciones y pueblos indígena originario campesinos.",
-     "El Artículo 5 de la Constitución Política del Estado establece que son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos.",
-     "El Artículo 5 de la Constitución Política del Estado establece que son idiomas oficiales del Estado el castellano y varios idiomas de las naciones y pueblos indígena originario campesinos.",
-     "El Artículo 5 de la Constitución Política del Estado establece que son idiomas oficiales del Estado el castellano y ciertos idiomas de las naciones y pueblos indígena originario campesinos."
+     "La educación es obligatoria hasta el bachillerato y la educación fiscal es arancelada en todos sus niveles.",
+     "La educación es obligatoria hasta el bachillerato y la educación fiscal es gratuita en todos sus niveles.",
+     "La educación es obligatoria hasta el bachillerato y la educación fiscal es privada en todos sus niveles educativos.",
+     "La educación es obligatoria hasta el bachillerato y la educación fiscal es pagada en todos sus niveles educativos."
     ],
     "answer": 1,
-    "feedback": "El Artículo 5.I de la CPE dicta: \"Son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos...\""
+    "feedback": "El Artículo 1, parágrafos 8 y 9, establece textualmente: \"8. La educación es obligatoria hasta el bachillerato. 9. La educación fiscal es gratuita en todos sus niveles hasta el superior.\""
    },
    {
-    "q": "El Artículo 8 de la CPE establece los principios ético-morales que rigen a la sociedad plural boliviana, rescatando saberes ancestrales. En el contexto de la formación ética y ciudadana, ¿cuál es el significado exacto del principio \"ama llulla\"?",
+    "q": "El Artículo 3 de la Ley 070 define las bases sobre las cuales se fundamenta la educación boliviana. De acuerdo con lo establecido en su parágrafo 6, ¿cuál de las siguientes afirmaciones NO corresponde a una de las bases del Sistema Educativo Plurinacional?",
     "options": [
-     "El Artículo 8 de la Constitución Política del Estado establece como principio ético-moral el \"ama llulla\", que significa no seas violento.",
-     "El Artículo 8 de la Constitución Política del Estado establece como principio ético-moral el \"ama llulla\", que significa no seas egoísta.",
-     "El Artículo 8 de la Constitución Política del Estado establece como principio ético-moral el \"ama llulla\", que significa no seas mentiroso.",
-     "El Artículo 8 de la Constitución Política del Estado establece como principio ético-moral el \"ama llulla\", que significa no seas tramposo."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 8.I de la CPE establece: \"El Estado asume y promueve como principios ético-morales... ama qhilla, ama llulla, ama suwa (no seas flojo, no seas mentiroso ni seas ladrón)...\""
-   },
-   {
-    "q": "El Artículo 9 de la CPE define los fines y funciones esenciales del Estado boliviano para garantizar el bienestar social. En el marco de la garantía de los derechos sociales, ¿cuál es el mandato específico del numeral 5?",
-    "options": [
-     "El Artículo 9 de la Constitución Política del Estado establece como fin esencial garantizar el acceso de las personas a la educación, a la salud y al empleo.",
-     "El Artículo 9 de la Constitución Política del Estado establece como fin esencial garantizar el acceso de las personas a la educación, a la salud y al bienestar.",
-     "El Artículo 9 de la Constitución Política del Estado establece como fin esencial garantizar el acceso de las personas a la educación, a la salud y a la vivienda.",
-     "El Artículo 9 de la Constitución Política del Estado establece como fin esencial garantizar el acceso de las personas a la educación, a la salud y al trabajo."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 9 de la CPE establece: \"Son fines y funciones esenciales del Estado... 5. Garantizar el acceso de las personas a la educación, a la salud y al trabajo.\""
-   },
-   {
-    "q": "El Artículo 13 de la CPE establece la naturaleza de los derechos fundamentales, siendo un pilar para la exigibilidad de los mismos. Según el parágrafo I, ¿cómo se caracterizan los derechos reconocidos?",
-    "options": [
-     "El Artículo 13 de la Constitución Política del Estado establece que los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y progresivos.",
-     "El Artículo 13 de la Constitución Política del Estado establece que los derechos reconocidos por esta Constitución son delegables, universales, interdependientes, indivisibles y progresivos.",
-     "El Artículo 13 de la Constitución Política del Estado establece que los derechos reconocidos por esta Constitución son renunciables, universales, interdependientes, indivisibles y progresivos.",
-     "El Artículo 13 de la Constitución Política del Estado establece que los derechos reconocidos por esta Constitución son prescriptibles, universales, interdependientes, indivisibles y progresivos."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 13.I de la CPE señala: \"Los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y progresivos.\""
-   },
-   {
-    "q": "El Artículo 14 de la CPE aborda la prohibición de la discriminación como un mecanismo de protección de la dignidad humana. ¿Qué acción asume el Estado frente a las formas de discriminación mencionadas en el parágrafo II?",
-    "options": [
-     "El Artículo 14 de la Constitución Política del Estado establece que el Estado permite y regula toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras.",
-     "El Artículo 14 de la Constitución Política del Estado establece que el Estado prohíbe y sanciona toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras.",
-     "El Artículo 14 de la Constitución Política del Estado establece que el Estado tolera y acepta toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras.",
-     "El Artículo 14 de la Constitución Política del Estado establece que el Estado ignora y omite toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras."
+     "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas.",
+     "Es dogmática, confesional e impositiva de una única fe religiosa para garantizar la espiritualidad de todas las naciones del país.",
+     "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras políticas.",
+     "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras sociales."
     ],
     "answer": 1,
-    "feedback": "El Artículo 14.II de la CPE establece textualmente: \"El Estado prohíbe y sanciona toda forma de discriminación...\""
+    "feedback": "El Artículo 3, parágrafo 6, establece que la educación \"Es laica, pluralista y espiritual, reconoce y garantiza la libertad de conciencia y de fe... sin imposición dogmática\"."
    },
    {
-    "q": "El Artículo 17 de la CPE consagra el derecho a la educación, estableciendo sus características esenciales para garantizar una formación integral y equitativa. ¿Cuáles son las cualidades que debe poseer la educación?",
+    "q": "El Artículo 12 describe la organización de la Educación Inicial en Familia Comunitaria, la cual constituye la base fundamental para la formación integral. ¿Cuál es la duración y la secuencia correcta de sus dos etapas según lo establecido en la norma?",
     "options": [
-     "El Artículo 17 de la Constitución Política del Estado establece que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, teórica, gratuita, integral e intercultural, sin discriminación.",
-     "El Artículo 17 de la Constitución Política del Estado establece que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, técnica, gratuita, integral e intercultural, sin discriminación.",
-     "El Artículo 17 de la Constitución Política del Estado establece que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.",
-     "El Artículo 17 de la Constitución Política del Estado establece que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, práctica, gratuita, integral e intercultural, sin discriminación."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 17 de la CPE dicta literalmente: \"Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.\""
-   },
-   {
-    "q": "El Artículo 21 de la CPE enumera los derechos civiles de las bolivianas y los bolivianos, garantizando libertades fundamentales. En el marco del acceso al conocimiento, ¿qué establece el numeral 6 respecto a la información?",
-    "options": [
-     "El Artículo 21 de la Constitución Política del Estado establece el derecho a acceder a la información, interpretarla, analizarla y ocultarla libremente, de manera individual o colectiva.",
-     "El Artículo 21 de la Constitución Política del Estado establece el derecho a acceder a la información, interpretarla, analizarla y censurarla libremente, de manera individual o colectiva.",
-     "El Artículo 21 de la Constitución Política del Estado establece el derecho a acceder a la información, interpretarla, analizarla y restringirla libremente, de manera individual o colectiva.",
-     "El Artículo 21 de la Constitución Política del Estado establece el derecho a acceder a la información, interpretarla, analizarla y comunicarla libremente, de manera individual o colectiva."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 21 de la CPE establece: \"Las bolivianas y los bolivianos tienen los siguientes derechos: [...] 6. A acceder a la información, interpretarla, analizarla y comunicarla libremente, de manera individual o colectiva.\""
-   },
-   {
-    "q": "El Artículo 24 de la CPE regula el derecho de petición, un mecanismo fundamental de participación ciudadana. Según este artículo, ¿cómo debe ser la respuesta del Estado ante una petición formal?",
-    "options": [
-     "El Artículo 24 de la Constitución Política del Estado establece que toda persona tiene derecho a la petición de manera individual o colectiva, sea oral o escrita, y a la obtención de respuesta formal y pronta.",
-     "El Artículo 24 de la Constitución Política del Estado establece que toda persona tiene derecho a la petición de manera individual o colectiva, sea oral o escrita, y a la obtención de respuesta informal y tardía.",
-     "El Artículo 24 de la Constitución Política del Estado establece que toda persona tiene derecho a la petición de manera individual o colectiva, sea oral o escrita, y a la obtención de respuesta verbal e inmediata.",
-     "El Artículo 24 de la Constitución Política del Estado establece que toda persona tiene derecho a la petición de manera individual o colectiva, sea oral o escrita, y a la obtención de respuesta escrita y mediata."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 24 de la CPE dicta: \"Toda persona tiene derecho a la petición de manera individual o colectiva, sea oral o escrita, y a la obtención de respuesta formal y pronta...\""
-   },
-   {
-    "q": "El Artículo 30 de la CPE reconoce los derechos de las naciones y pueblos indígena originario campesinos, incluyendo el ámbito educativo. Según el numeral 12 del parágrafo II, ¿qué tipo de educación les corresponde?",
-    "options": [
-     "El Artículo 30 de la Constitución Política del Estado establece el derecho a una educación multicultural, transcultural y unilingüe en todo el sistema educativo.",
-     "El Artículo 30 de la Constitución Política del Estado establece el derecho a una educación intracultural, intercultural y plurilingüe en todo el sistema educativo.",
-     "El Artículo 30 de la Constitución Política del Estado establece el derecho a una educación bicultural, acultural y monolingüe en todo el sistema educativo.",
-     "El Artículo 30 de la Constitución Política del Estado establece el derecho a una educación endocultural, policultural y bilingüe en todo el sistema educativo."
+     "Una etapa escolarizada de tres años de duración y una no escolarizada de dos años de duración.",
+     "Una etapa no escolarizada de tres años de duración y una escolarizada de dos años de duración.",
+     "Una etapa no escolarizada de cuatro años de duración y una escolarizada de un año de duración.",
+     "Una etapa no escolarizada de dos años de duración y una escolarizada de tres años de duración."
     ],
     "answer": 1,
-    "feedback": "El Artículo 30.II.12 de la CPE establece: \"...gozan de los siguientes derechos: [...] 12. A una educación intracultural, intercultural y plurilingüe en todo el sistema educativo.\""
+    "feedback": "El Artículo 12, parágrafo 1, indica que la etapa no escolarizada es \"De tres años de duración\", y el parágrafo 2 establece que la etapa escolarizada es \"De dos años de duración\"."
    },
    {
-    "q": "El Artículo 58 de la CPE define a la niñez y adolescencia como sujetos plenos de derecho, estableciendo su protección integral. ¿Quiénes son considerados titulares de los derechos reconocidos en la Constitución?",
+    "q": "El Artículo 16 define las características del Subsistema de Educación Alternativa y Especial. En este contexto, ¿cuál de las siguientes opciones NO representa una característica o enfoque de este subsistema según lo establecido en la ley?",
     "options": [
-     "El Artículo 58 de la Constitución Política del Estado establece que los adultos mayores y jóvenes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta.",
-     "El Artículo 58 de la Constitución Política del Estado establece que los ciudadanos y profesionales son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta.",
-     "El Artículo 58 de la Constitución Política del Estado establece que las niñas, niños y adolescentes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta.",
-     "El Artículo 58 de la Constitución Política del Estado establece que los padres y las madres son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 58 de la CPE señala: \"Las niñas, niños y adolescentes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta...\""
-   },
-   {
-    "q": "El Artículo 60 de la CPE establece la doctrina de protección integral y el interés superior del niño, niña y adolescente. ¿Qué elementos comprende la garantía de este interés superior?",
-    "options": [
-     "El Artículo 60 de la Constitución Política del Estado establece que el interés superior comprende la igualdad de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, y la prioridad en la atención de los servicios públicos y privados.",
-     "El Artículo 60 de la Constitución Política del Estado establece que el interés superior comprende la postergación de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, y la prioridad en la atención de los servicios públicos y privados.",
-     "El Artículo 60 de la Constitución Política del Estado establece que el interés superior comprende la suspensión de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, y la prioridad en la atención de los servicios públicos y privados.",
-     "El Artículo 60 de la Constitución Política del Estado establece que el interés superior comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, y la prioridad en la atención de los servicios públicos y privados."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 60 de la CPE establece: \"...que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, la prioridad en la atención de los servicios públicos y privados...\""
-   },
-   {
-    "q": "El Artículo 70 de la CPE consagra los derechos de las personas con discapacidad, promoviendo su inclusión plena. En el ámbito educativo y de salud, ¿qué derecho específico les otorga el numeral 2?",
-    "options": [
-     "El Artículo 70 de la Constitución Política del Estado establece el derecho a una educación y salud integral gratuita.",
-     "El Artículo 70 de la Constitución Política del Estado establece el derecho a una educación y salud parcial pagada.",
-     "El Artículo 70 de la Constitución Política del Estado establece el derecho a una educación y salud básica costosa.",
-     "El Artículo 70 de la Constitución Política del Estado establece el derecho a una educación y salud técnica barata."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 70 de la CPE establece: \"Toda persona con discapacidad goza de los siguientes derechos: [...] 2. A una educación y salud integral gratuita.\""
-   },
-   {
-    "q": "El Artículo 71 de la CPE establece las acciones estatales para garantizar la igualdad de oportunidades de las personas con discapacidad. ¿Qué tipo de medidas adoptará el Estado para lograr su integración?",
-    "options": [
-     "El Artículo 71 de la Constitución Política del Estado establece que el Estado adoptará medidas de acción negativa para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural.",
-     "El Artículo 71 de la Constitución Política del Estado establece que el Estado adoptará medidas de acción positiva para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural.",
-     "El Artículo 71 de la Constitución Política del Estado establece que el Estado adoptará medidas de acción paliativa para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural.",
-     "El Artículo 71 de la Constitución Política del Estado establece que el Estado adoptará medidas de acción restrictiva para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural."
+     "Está destinada a atender necesidades y expectativas educativas de personas que requieren dar continuidad a sus estudios.",
+     "Se desarrolla bajo un enfoque conductista, priorizando a la población con mayores recursos económicos del país.",
+     "Está destinada a atender necesidades y expectativas educativas de personas que requieren dar continuidad a sus estudios.",
+     "Está destinada a atender necesidades y expectativas educativas de personas que requieren dar continuidad a sus estudios."
     ],
     "answer": 1,
-    "feedback": "El Artículo 71.II de la CPE dicta: \"El Estado adoptará medidas de acción positiva para promover la efectiva integración de las personas con discapacidad...\""
+    "feedback": "El Artículo 16, parágrafo 2, establece que se desarrolla en el marco de los enfoques de la Educación Popular y Comunitaria, Educación Inclusiva y Educación a lo largo de la vida, priorizando a la población en situación de exclusión."
    },
    {
-    "q": "El Artículo 77 de la CPE define el rol y la responsabilidad del Estado en materia educativa. ¿Cómo se califica la educación en el marco de las finanzas públicas?",
+    "q": "El Artículo 32 define la naturaleza de la Formación Superior de Maestras y Maestros. De acuerdo con sus parágrafos, ¿cuáles son las características que definen a esta formación en cuanto a su jerarquía y financiamiento?",
     "options": [
-     "El Artículo 77 de la Constitución Política del Estado establece que la educación constituye una función secundaria y segunda responsabilidad financiera del Estado.",
-     "El Artículo 77 de la Constitución Política del Estado establece que la educación constituye una función delegable y tercera responsabilidad financiera del Estado.",
-     "El Artículo 77 de la Constitución Política del Estado establece que la educación constituye una función suprema y primera responsabilidad financiera del Estado.",
-     "El Artículo 77 de la Constitución Política del Estado establece que la educación constituye una función privada y cuarta responsabilidad financiera del Estado."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 77.I de la CPE establece literalmente: \"La educación constituye una función suprema y primera responsabilidad financiera del Estado...\""
-   },
-   {
-    "q": "El Artículo 77 de la CPE también define a los actores responsables de la tuición del sistema educativo. ¿Quiénes tienen esta responsabilidad?",
-    "options": [
-     "El Artículo 77 de la Constitución Política del Estado establece que el Estado y la iglesia tienen tuición plena sobre el sistema educativo.",
-     "El Artículo 77 de la Constitución Política del Estado establece que el Estado y las empresas tienen tuición plena sobre el sistema educativo.",
-     "El Artículo 77 de la Constitución Política del Estado establece que el Estado y las ONGs tienen tuición plena sobre el sistema educativo.",
-     "El Artículo 77 de la Constitución Política del Estado establece que el Estado y la sociedad tienen tuición plena sobre el sistema educativo."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 77.II de la CPE dicta: \"El Estado y la sociedad tienen tuición plena sobre el sistema educativo...\""
-   },
-   {
-    "q": "El Artículo 77 de la CPE establece la composición del sistema educativo boliviano. ¿Cuáles son las instituciones que lo conforman?",
-    "options": [
-     "El Artículo 77 de la Constitución Política del Estado establece que el sistema educativo está compuesto por las instituciones educativas fiscales, instituciones educativas privadas y de convenio.",
-     "El Artículo 77 de la Constitución Política del Estado establece que el sistema educativo está compuesto por las instituciones educativas públicas, comunitarias y militares.",
-     "El Artículo 77 de la Constitución Política del Estado establece que el sistema educativo está compuesto por las instituciones educativas nacionales, departamentales y municipales.",
-     "El Artículo 77 de la Constitución Política del Estado establece que el sistema educativo está compuesto por las instituciones educativas urbanas, rurales y fronterizas."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 77.III de la CPE establece: \"El sistema educativo está compuesto por las instituciones educativas fiscales, instituciones educativas privadas y de convenio.\""
-   },
-   {
-    "q": "El Artículo 78 de la CPE define la naturaleza y los principios rectores de la educación boliviana. ¿Cuáles son las características que definen a la educación?",
-    "options": [
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es unitaria, privada, universal, democrática, participativa, comunitaria, colonizadora y de calidad.",
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.",
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es unitaria, pública, universal, autoritaria, participativa, comunitaria, descolonizadora y de calidad.",
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es unitaria, mixta, universal, democrática, pasiva, comunitaria, descolonizadora y de calidad."
+     "Es única en jerarquía y calidad, intracultural, intercultural, plurilingüe, privada y arancelada.",
+     "Es única en jerarquía y calidad, intracultural, intercultural, plurilingüe, fiscal y gratuita.",
+     "Es única en jerarquía y calidad, intracultural, intercultural, plurilingüe, privada y gratuita.",
+     "Es única en jerarquía y calidad, intracultural, intercultural, plurilingüe, fiscal y arancelada."
     ],
     "answer": 1,
-    "feedback": "El Artículo 78.I de la CPE establece textualmente: \"La educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.\""
+    "feedback": "El Artículo 32, parágrafo 3, establece que la formación es \"Fiscal y gratuita, porque el Estado asume la responsabilidad, por constituirse en una función suprema y primera responsabilidad financiera del Estado.\""
    },
    {
-    "q": "El Artículo 78 de la CPE establece la dimensión intercultural y plurilingüe de la educación. ¿En qué ámbito del sistema educativo se debe aplicar esta disposición?",
+    "q": "El Artículo 8 establece la estructura del Sistema Educativo Plurinacional. Con base en lo dispuesto en este artículo, ¿cuál de las siguientes alternativas NO forma parte de los subsistemas que lo comprenden?",
     "options": [
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es intracultural, intercultural y plurilingüe solo en el área rural.",
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es intracultural, intercultural y plurilingüe solo en el nivel primario.",
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es intracultural, intercultural y plurilingüe en todo el sistema educativo.",
-     "El Artículo 78 de la Constitución Política del Estado establece que la educación es intracultural, intercultural y plurilingüe solo en escuelas públicas."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 78.II de la CPE dicta: \"La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo.\""
-   },
-   {
-    "q": "El Artículo 78 de la CPE define los fundamentos filosóficos y pedagógicos del sistema educativo. ¿Cómo se define esta educación?",
-    "options": [
-     "El Artículo 78 de la Constitución Política del Estado establece que el sistema educativo se fundamenta en una educación cerrada, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.",
-     "El Artículo 78 de la Constitución Política del Estado establece que el sistema educativo se fundamenta en una educación abierta, religiosa, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.",
-     "El Artículo 78 de la Constitución Política del Estado establece que el sistema educativo se fundamenta en una educación cerrada, militar, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.",
-     "El Artículo 78 de la Constitución Política del Estado establece que el sistema educativo se fundamenta en una educación abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 78.III de la CPE establece: \"El sistema educativo se fundamenta en una educación abierta, humanista, científica, técnica y tecnológica...\""
-   },
-   {
-    "q": "El Artículo 79 de la CPE establece los valores que la educación debe fomentar para construir una sociedad más justa e igualitaria. ¿Qué valores específicos incorporará la educación?",
-    "options": [
-     "El Artículo 79 de la Constitución Política del Estado establece que los valores incorporarán la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.",
-     "El Artículo 79 de la Constitución Política del Estado establece que los valores incorporarán la igualdad de raza, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.",
-     "El Artículo 79 de la Constitución Política del Estado establece que los valores incorporarán la equidad de clase, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.",
-     "El Artículo 79 de la Constitución Política del Estado establece que los valores incorporarán la igualdad social, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 79 de la CPE dicta: \"...Los valores incorporarán la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.\""
-   },
-   {
-    "q": "El Artículo 80 de la CPE define los objetivos y la orientación de la educación en el marco del desarrollo integral y la conciencia crítica. ¿Cuál es el objetivo central de la educación?",
-    "options": [
-     "El Artículo 80 de la Constitución Política del Estado establece que la educación tendrá como objetivo la formación parcial de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.",
-     "El Artículo 80 de la Constitución Política del Estado establece que la educación tendrá como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.",
-     "El Artículo 80 de la Constitución Política del Estado establece que la educación tendrá como objetivo la formación técnica de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.",
-     "El Artículo 80 de la Constitución Política del Estado establece que la educación tendrá como objetivo la formación básica de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida."
+     "Subsistema de Educación Regular, Subsistema de Educación Alternativa y Especial, Subsistema de Educación Superior de Formación.",
+     "Subsistema de Educación Regular, Subsistema de Educación Alternativa y Especial, Subsistema de Educación Técnica Privada de Convenio.",
+     "Subsistema de Educación Regular, Subsistema de Educación Alternativa y Especial, Subsistema de Educación Superior de Formación.",
+     "Subsistema de Educación Regular, Subsistema de Educación Alternativa y Especial, Subsistema de Educación Superior de Formación."
     ],
     "answer": 1,
-    "feedback": "El Artículo 80.I de la CPE establece: \"La educación tendrá como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.\""
+    "feedback": "El Artículo 8 establece que el Sistema Educativo Plurinacional comprende: 1. Subsistema de Educación Regular, 2. Subsistema de Educación Alternativa y Especial, 3. Subsistema de Educación Superior de Formación Profesional."
    },
    {
-    "q": "El Artículo 81 de la CPE regula la obligatoriedad y gratuidad del sistema educativo. ¿Hasta qué nivel la educación es de carácter obligatorio?",
+    "q": "El Artículo 4 detalla los fines de la educación boliviana, orientados a la construcción de una sociedad del Vivir Bien. En este sentido, ¿cuál de las siguientes afirmaciones NO es un fin de la educación según el parágrafo 6?",
     "options": [
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación es obligatoria hasta el nivel primario.",
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación es obligatoria hasta el nivel técnico.",
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación es obligatoria hasta el bachillerato.",
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación es obligatoria hasta el nivel superior."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 81.I de la CPE dicta: \"La educación es obligatoria hasta el bachillerato.\""
-   },
-   {
-    "q": "El Artículo 81 de la CPE también establece la gratuidad en la educación fiscal. ¿Hasta qué nivel abarca esta gratuidad?",
-    "options": [
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación fiscal es gratuita en todos sus niveles hasta el nivel primario.",
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación fiscal es gratuita en todos sus niveles hasta el nivel secundario.",
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación fiscal es gratuita en todos sus niveles hasta el nivel técnico.",
-     "El Artículo 81 de la Constitución Política del Estado establece que la educación fiscal es gratuita en todos sus niveles hasta el superior."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 81.II de la CPE establece: \"La educación fiscal es gratuita en todos sus niveles hasta el superior.\""
-   },
-   {
-    "q": "El Artículo 82 de la CPE establece las condiciones para garantizar la permanencia y el acceso a la educación en igualdad de oportunidades. ¿Qué tipo de apoyo brinda el Estado a los estudiantes con menos posibilidades económicas en áreas dispersas?",
-    "options": [
-     "El Artículo 82 de la Constitución Política del Estado establece que el Estado apoyará en áreas dispersas, con residencias estudiantiles.",
-     "El Artículo 82 de la Constitución Política del Estado establece que el Estado apoyará en áreas dispersas, con internados estatales.",
-     "El Artículo 82 de la Constitución Política del Estado establece que el Estado apoyará en áreas dispersas, con comedores escolares.",
-     "El Artículo 82 de la Constitución Política del Estado establece que el Estado apoyará en áreas dispersas, con albergues juveniles."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 82.II de la CPE dicta: \"...en áreas dispersas, con residencias estudiantiles, de acuerdo con la ley.\""
-   },
-   {
-    "q": "El Artículo 83 de la CPE establece los actores que intervienen en la gestión del sistema educativo, promoviendo una democracia participativa. ¿Qué tipos de participación se reconocen y garantizan?",
-    "options": [
-     "El Artículo 83 de la Constitución Política del Estado reconoce y garantiza la participación social, la participación sindical y de los docentes en el sistema educativo.",
-     "El Artículo 83 de la Constitución Política del Estado reconoce y garantiza la participación social, la participación comunitaria y de los padres de familia en el sistema educativo.",
-     "El Artículo 83 de la Constitución Política del Estado reconoce y garantiza la participación social, la participación política y de los docentes en el sistema educativo.",
-     "El Artículo 83 de la Constitución Política del Estado reconoce y garantiza la participación social, la participación privada y de los empresarios en el sistema educativo."
+     "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien.",
+     "Promover una sociedad patriarcal, cimentada en la diferenciación de roles y la exclusión de los derechos humanos.",
+     "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien.",
+     "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien."
     ],
     "answer": 1,
-    "feedback": "El Artículo 83 de la CPE establece: \"Se reconoce y garantiza la participación social, la participación comunitaria y de los padres de familia en el sistema educativo...\""
+    "feedback": "El Artículo 4, parágrafo 6, establece como fin: \"Promover una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.\""
    },
    {
-    "q": "El Artículo 84 de la CPE aborda la erradicación del analfabetismo como un deber estatal y social. ¿Cómo deben ser los programas educativos para este fin?",
+    "q": "El Artículo 14 regula la Educación Secundaria Comunitaria Productiva. Según lo estipulado en su parágrafo 2, ¿cuál es la duración de este nivel educativo y cuál es el diploma que se obtiene al concluirlo?",
     "options": [
-     "El Artículo 84 de la Constitución Política del Estado establece que los programas deben ser acordes con la realidad económica y social de la población.",
-     "El Artículo 84 de la Constitución Política del Estado establece que los programas deben ser acordes con la realidad política y territorial de la población.",
-     "El Artículo 84 de la Constitución Política del Estado establece que los programas deben ser acordes con la realidad cultural y lingüística de la población.",
-     "El Artículo 84 de la Constitución Política del Estado establece que los programas deben ser acordes con la realidad educativa y tecnológica de la población."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 84 de la CPE dicta: \"...a través de programas acordes con la realidad cultural y lingüística de la población.\""
-   },
-   {
-    "q": "El Artículo 85 de la CPE garantiza la educación permanente para estudiantes con discapacidad o con talentos extraordinarios. ¿Bajo qué estructura se debe impartir esta educación?",
-    "options": [
-     "El Artículo 85 de la Constitución Política del Estado establece que se educará bajo una estructura paralela, principios y valores del sistema educativo, estableciendo una organización y desarrollo curricular especial.",
-     "El Artículo 85 de la Constitución Política del Estado establece que se educará bajo una estructura independiente, principios y valores del sistema educativo, estableciendo una organización y desarrollo curricular especial.",
-     "El Artículo 85 de la Constitución Política del Estado establece que se educará bajo una estructura especial, principios y valores del sistema educativo, estableciendo una organización y desarrollo curricular especial.",
-     "El Artículo 85 de la Constitución Política del Estado establece que se educará bajo la misma estructura, principios y valores del sistema educativo, estableciendo una organización y desarrollo curricular especial."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 85 de la CPE establece: \"...bajo la misma estructura, principios y valores del sistema educativo, y establecerá una organización y desarrollo curricular especial.\""
-   },
-   {
-    "q": "El Artículo 86 de la CPE regula la libertad de conciencia, fe y espiritualidad en los centros educativos. ¿Cómo se debe manejar la enseñanza religiosa y espiritual?",
-    "options": [
-     "El Artículo 86 de la Constitución Política del Estado establece que se garantiza la libertad de conciencia y de fe, así como la espiritualidad de los pueblos indígenas, sin imposición dogmática.",
-     "El Artículo 86 de la Constitución Política del Estado establece que se garantiza la libertad de conciencia y de fe, así como la espiritualidad de los pueblos indígenas, con imposición dogmática.",
-     "El Artículo 86 de la Constitución Política del Estado establece que se garantiza la libertad de conciencia y de fe, así como la espiritualidad de los pueblos indígenas, bajo supervisión dogmática.",
-     "El Artículo 86 de la Constitución Política del Estado establece que se garantiza la libertad de conciencia y de fe, así como la espiritualidad de los pueblos indígenas, con restricción dogmática."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 86 de la CPE dicta: \"...se fomentará el respeto y la convivencia mutua entre las personas con diversas opciones religiosas, sin imposición dogmática.\""
-   },
-   {
-    "q": "El Artículo 87 de la CPE reconoce el funcionamiento de las unidades educativas de convenio, estableciendo sus límites. ¿Cuál es la condición fundamental para su funcionamiento?",
-    "options": [
-     "El Artículo 87 de la Constitución Política del Estado establece que las unidades educativas de convenio tienen fines de servicio social, con acceso libre y con fines de lucro.",
-     "El Artículo 87 de la Constitución Política del Estado establece que las unidades educativas de convenio tienen fines de servicio social, con acceso libre y sin fines de lucro.",
-     "El Artículo 87 de la Constitución Política del Estado establece que las unidades educativas de convenio tienen fines de servicio privado, con acceso restringido y sin fines de lucro.",
-     "El Artículo 87 de la Constitución Política del Estado establece que las unidades educativas de convenio tienen fines de servicio social, con acceso restringido y sin fines de lucro."
+     "Tiene una duración de cinco años y está orientada a la obtención del Diploma de Bachiller Técnico Humanístico.",
+     "Tiene una duración de seis años y está orientada a la obtención del Diploma de Bachiller Técnico Humanístico.",
+     "Tiene una duración de siete años y está orientada a la obtención del Diploma de Bachiller Técnico Humanístico.",
+     "Tiene una duración de cuatro años y está orientada a la obtención del Diploma de Bachiller Técnico Humanístico."
     ],
     "answer": 1,
-    "feedback": "El Artículo 87 de la CPE establece: \"Se reconoce y respeta el funcionamiento de unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro...\""
+    "feedback": "El Artículo 14, parágrafo 2, establece que \"Está orientada a la formación y la obtención del Diploma de Bachiller Técnico Humanístico... De seis años de duración.\""
    },
    {
-    "q": "El Artículo 88 de la CPE reconoce y regula el funcionamiento de las unidades educativas privadas. ¿A qué se sujetan estas instituciones?",
+    "q": "El Artículo 7 establece los principios obligatorios para el uso de idiomas en el sistema educativo. De acuerdo con su parágrafo 2, ¿qué principio se aplica en las poblaciones o comunidades monolingües de predominio del castellano?",
     "options": [
-     "El Artículo 88 de la Constitución Política del Estado establece que las unidades educativas privadas se regirán por las leyes del mercado, planes, programas y autoridades del sistema educativo.",
-     "El Artículo 88 de la Constitución Política del Estado establece que las unidades educativas privadas se regirán por sus propios estatutos, planes, programas y autoridades del sistema educativo.",
-     "El Artículo 88 de la Constitución Política del Estado establece que las unidades educativas privadas se regirán por las políticas, planes, programas y autoridades del sistema educativo.",
-     "El Artículo 88 de la Constitución Política del Estado establece que las unidades educativas privadas se regirán por los convenios internacionales, planes, programas y autoridades del sistema educativo."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 88.I de la CPE dicta: \"...éstas se regirán por las políticas, planes, programas y autoridades del sistema educativo.\""
-   },
-   {
-    "q": "El Artículo 88 de la CPE también reconoce un derecho fundamental para las familias en la elección de la educación. ¿Qué derecho específico se respeta?",
-    "options": [
-     "El Artículo 88 de la Constitución Política del Estado establece que se respeta el derecho de las madres y padres a imponer la educación que convenga para sus hijas e hijos.",
-     "El Artículo 88 de la Constitución Política del Estado establece que se respeta el derecho de las madres y padres a modificar la educación que convenga para sus hijas e hijos.",
-     "El Artículo 88 de la Constitución Política del Estado establece que se respeta el derecho de las madres y padres a rechazar la educación que convenga para sus hijas e hijos.",
-     "El Artículo 88 de la Constitución Política del Estado establece que se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 88.II de la CPE establece: \"Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos.\""
-   },
-   {
-    "q": "El Artículo 89 de la CPE establece los mecanismos institucionales para garantizar la calidad educativa. ¿Qué características debe tener la institución a cargo de la evaluación?",
-    "options": [
-     "El Artículo 89 de la Constitución Política del Estado establece que la evaluación estará a cargo de una institución pública, técnica especializada, independiente del Ministerio del ramo.",
-     "El Artículo 89 de la Constitución Política del Estado establece que la evaluación estará a cargo de una institución privada, técnica especializada, dependiente del Ministerio del ramo.",
-     "El Artículo 89 de la Constitución Política del Estado establece que la evaluación estará a cargo de una institución social, técnica especializada, dependiente del Ministerio del ramo.",
-     "El Artículo 89 de la Constitución Política del Estado establece que la evaluación estará a cargo de una institución estatal, técnica especializada, dependiente del Ministerio del ramo."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 89 de la CPE dicta: \"...estará a cargo de una institución pública, técnica especializada, independiente del Ministerio del ramo.\""
-   },
-   {
-    "q": "El Artículo 90 de la CPE promueve la formación humanística, técnica y tecnológica. ¿Bajo qué condición el Estado reconoce la vigencia de estos institutos?",
-    "options": [
-     "El Artículo 90 de la Constitución Política del Estado establece que reconocerá la vigencia de institutos de formación humanística, técnica y tecnológica, sin necesidad del cumplimiento de las condiciones y requisitos establecidos en la ley.",
-     "El Artículo 90 de la Constitución Política del Estado establece que reconocerá la vigencia de institutos de formación humanística, técnica y tecnológica, previo cumplimiento de las condiciones y requisitos establecidos en la ley.",
-     "El Artículo 90 de la Constitución Política del Estado establece que reconocerá la vigencia de institutos de formación humanística, técnica y tecnológica, posterior al cumplimiento de las condiciones y requisitos establecidos en la ley.",
-     "El Artículo 90 de la Constitución Política del Estado establece que reconocerá la vigencia de institutos de formación humanística, técnica y tecnológica, a pesar del cumplimiento de las condiciones y requisitos establecidos en la ley."
+     "La lengua originaria como primera lengua y el castellano como segunda lengua en el proceso educativo.",
+     "El castellano como primera lengua y la lengua originaria como segunda lengua en el proceso educativo.",
+     "La lengua extranjera como primera lengua y el castellano como segunda lengua en el proceso educativo.",
+     "La lengua originaria como primera lengua y la lengua extranjera como segunda lengua en el proceso educativo."
     ],
     "answer": 1,
-    "feedback": "El Artículo 90.I de la CPE establece: \"...en los niveles medio y superior, previo cumplimiento de las condiciones y requisitos establecidos en la ley.\""
+    "feedback": "El Artículo 7, parágrafo 2, establece: \"En poblaciones o comunidades monolingües y de predominio del castellano, el castellano como primera lengua y la originaria como segunda.\""
    },
    {
-    "q": "El Artículo 90 de la CPE también fomenta la educación a distancia y popular. ¿Cuál es el objetivo de promover estos programas educativos?",
+    "q": "El Artículo 80 detalla las competencias de las entidades territoriales autónomas en la gestión educativa. En relación con las atribuciones de los Gobiernos Municipales, ¿cuál de las siguientes opciones NO corresponde a una de sus responsabilidades?",
     "options": [
-     "El Artículo 90 de la Constitución Política del Estado establece que el objetivo es elevar el nivel cultural y desarrollar la conciencia nacional del pueblo.",
-     "El Artículo 90 de la Constitución Política del Estado establece que el objetivo es elevar el nivel cultural y desarrollar la conciencia regional del pueblo.",
-     "El Artículo 90 de la Constitución Política del Estado establece que el objetivo es elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo.",
-     "El Artículo 90 de la Constitución Política del Estado establece que el objetivo es elevar el nivel cultural y desarrollar la conciencia ciudadana del pueblo."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 90.III de la CPE dicta: \"...con el objetivo de elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo.\""
-   },
-   {
-    "q": "El Artículo 91 de la CPE define los objetivos y la misión de la educación superior. ¿Qué tipos de conocimientos debe tomar en cuenta para orientar sus procesos de formación?",
-    "options": [
-     "El Artículo 91 de la Constitución Política del Estado establece que tomará en cuenta los conocimientos nacionales y los saberes locales de las naciones y pueblos indígena originario campesinos.",
-     "El Artículo 91 de la Constitución Política del Estado establece que tomará en cuenta los conocimientos extranjeros y los saberes colectivos de las naciones y pueblos indígena originario campesinos.",
-     "El Artículo 91 de la Constitución Política del Estado establece que tomará en cuenta los conocimientos tecnológicos y los saberes ancestrales de las naciones y pueblos indígena originario campesinos.",
-     "El Artículo 91 de la Constitución Política del Estado establece que tomará en cuenta los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 91.I de la CPE establece: \"...para lo cual tomará en cuenta los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos.\""
-   },
-   {
-    "q": "El Artículo 91 de la CPE detalla la misión de la educación superior en relación con la investigación. ¿Cuál es uno de los propósitos de la investigación científica en este nivel?",
-    "options": [
-     "El Artículo 91 de la Constitución Política del Estado establece que la investigación debe resolver problemas de la base productiva y de su entorno social.",
-     "El Artículo 91 de la Constitución Política del Estado establece que la investigación debe resolver problemas de la teoría académica y de su entorno social.",
-     "El Artículo 91 de la Constitución Política del Estado establece que la investigación debe resolver problemas de la industria privada y de su entorno social.",
-     "El Artículo 91 de la Constitución Política del Estado establece que la investigación debe resolver problemas de la política estatal y de su entorno social."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 91.II de la CPE dicta: \"...desarrollar procesos de investigación científica para resolver problemas de la base productiva y de su entorno social...\""
-   },
-   {
-    "q": "El Artículo 91 de la CPE especifica cuáles son las instituciones que conforman la educación superior en Bolivia. ¿Cuáles son estos componentes?",
-    "options": [
-     "El Artículo 91 de la Constitución Política del Estado establece que la educación superior está conformada por las universidades, las academias militares, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados.",
-     "El Artículo 91 de la Constitución Política del Estado establece que la educación superior está conformada por las universidades, las escuelas superiores de formación docente, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados.",
-     "El Artículo 91 de la Constitución Política del Estado establece que la educación superior está conformada por las universidades, las escuelas de artes, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados.",
-     "El Artículo 91 de la Constitución Política del Estado establece que la educación superior está conformada por las universidades, las escuelas técnicas, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados."
+     "Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario y material educativo.",
+     "Formular, aprobar y ejecutar planes de educación a partir de políticas y estrategias plurinacionales para el ámbito de su jurisdicción.",
+     "Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario y material educativo.",
+     "Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario y material educativo."
     ],
     "answer": 1,
-    "feedback": "El Artículo 91.III de la CPE establece: \"La educación superior está conformada por las universidades, las escuelas superiores de formación docente, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados.\""
+    "feedback": "El Artículo 80, parágrafo 3 (Autonomías Indígena Originaria Campesinas), literal a), establece la atribución de \"Formular, aprobar y ejecutar planes de educación a partir de políticas y estrategias plurinacionales para el ámbito de su jurisdicción territorial autonómicas\"."
    },
    {
-    "q": "El Artículo 92 de la CPE consagra la autonomía de las universidades públicas. ¿En qué consiste específicamente esta autonomía?",
+    "q": "El Artículo 2, en su parágrafo 5, establece disposiciones generales sobre los derechos de las madres y padres en el sistema educativo. ¿Qué derecho específico se les reconoce en relación con la educación de sus hijas e hijos?",
     "options": [
-     "El Artículo 92 de la Constitución Política del Estado establece que la autonomía consiste en la libre administración de sus recursos; el nombramiento de sus docentes; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos anuales.",
-     "El Artículo 92 de la Constitución Política del Estado establece que la autonomía consiste en la libre administración de sus recursos; el nombramiento de sus directivos; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos básicos.",
-     "El Artículo 92 de la Constitución Política del Estado establece que la autonomía consiste en la libre administración de sus recursos; el nombramiento de sus autoridades, su personal docente y administrativo; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos anuales.",
-     "El Artículo 92 de la Constitución Política del Estado establece que la autonomía consiste en la libre administración de sus recursos; el nombramiento de sus representantes; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos anuales."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 92.I de la CPE dicta: \"La autonomía consiste en la libre administración de sus recursos; el nombramiento de sus autoridades, su personal docente y administrativo; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos anuales...\""
-   },
-   {
-    "q": "El Artículo 93 de la CPE establece las garantías de financiamiento para las universidades públicas. ¿Cómo deben ser subvencionadas estas instituciones por el Estado?",
-    "options": [
-     "El Artículo 93 de la Constitución Política del Estado establece que las universidades públicas serán parcialmente y ocasionalmente subvencionadas por el Estado.",
-     "El Artículo 93 de la Constitución Política del Estado establece que las universidades públicas serán voluntariamente y suficientemente subvencionadas por el Estado.",
-     "El Artículo 93 de la Constitución Política del Estado establece que las universidades públicas serán obligatoria y escasamente subvencionadas por el Estado.",
-     "El Artículo 93 de la Constitución Política del Estado establece que las universidades públicas serán obligatoria y suficientemente subvencionadas por el Estado."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 93.I de la CPE establece: \"Las universidades públicas serán obligatoria y suficientemente subvencionadas por el Estado...\""
-   },
-   {
-    "q": "El Artículo 93 de la CPE exige a las universidades públicas mecanismos de transparencia. ¿Ante qué instancias deben presentar sus estados financieros?",
-    "options": [
-     "El Artículo 93 de la Constitución Política del Estado establece que presentarán estados financieros a la Asamblea Plurinacional Legislativa, a la Contraloría General y al Órgano Ejecutivo.",
-     "El Artículo 93 de la Constitución Política del Estado establece que presentarán estados financieros a la Asamblea Plurinacional Legislativa, a la Fiscalía General y al Órgano Ejecutivo.",
-     "El Artículo 93 de la Constitución Política del Estado establece que presentarán estados financieros a la Asamblea Plurinacional Legislativa, a la Defensoría del Pueblo y al Órgano Ejecutivo.",
-     "El Artículo 93 de la Constitución Política del Estado establece que presentarán estados financieros a la Asamblea Plurinacional Legislativa, a la Procuraduría General y al Órgano Ejecutivo."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 93.III de la CPE dicta: \"...a través de la presentación de estados financieros a la Asamblea Plurinacional Legislativa, a la Contraloría General y al Órgano Ejecutivo.\""
-   },
-   {
-    "q": "El Artículo 94 de la CPE regula la obtención de diplomas académicos en universidades privadas. ¿Quiénes deben integrar los tribunales examinadores para la titulación?",
-    "options": [
-     "El Artículo 94 de la Constitución Política del Estado establece que los tribunales estarán integrados por docentes titulares, nombrados por las autoridades del Ministerio, en las condiciones establecidas por la ley.",
-     "El Artículo 94 de la Constitución Política del Estado establece que los tribunales estarán integrados por docentes titulares, nombrados por las universidades públicas, en las condiciones establecidas por la ley.",
-     "El Artículo 94 de la Constitución Política del Estado establece que los tribunales estarán integrados por docentes titulares, nombrados por las universidades privadas, en las condiciones establecidas por la ley.",
-     "El Artículo 94 de la Constitución Política del Estado establece que los tribunales estarán integrados por docentes titulares, nombrados por el Órgano Electoral, en las condiciones establecidas por la ley."
+     "El derecho a elegir la educación que convenga para sus hijas e hijos, sin restricciones ni condiciones.",
+     "El derecho a elegir la educación que convenga para sus hijas e hijos, según sus convicciones.",
+     "El derecho a elegir la educación que convenga para sus hijas e hijos, con aprobación del Estado.",
+     "El derecho a elegir la educación que convenga para sus hijas e hijos, solo en el nivel primario."
     ],
     "answer": 1,
-    "feedback": "El Artículo 94.III de la CPE establece: \"...se conformarán tribunales examinadores, que estarán integrados por docentes titulares, nombrados por las universidades públicas...\""
+    "feedback": "El Artículo 2, parágrafo 5, establece: \"Del derecho de las madres y padres. Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos.\""
    },
    {
-    "q": "El Artículo 95 de la CPE exige a las universidades crear centros interculturales de formación. ¿A quiénes debe estar dirigido el acceso a estos centros?",
+    "q": "El Artículo 13 regula la Educación Primaria Comunitaria Vocacional, describiendo su duración y características. De acuerdo con lo establecido en este artículo, ¿cuál es la duración de este nivel educativo?",
     "options": [
-     "El Artículo 95 de la Constitución Política del Estado establece que los centros interculturales de formación y capacitación técnica y cultural serán de acceso restringido a estudiantes.",
-     "El Artículo 95 de la Constitución Política del Estado establece que los centros interculturales de formación y capacitación técnica y cultural serán de acceso exclusivo para indígenas.",
-     "El Artículo 95 de la Constitución Política del Estado establece que los centros interculturales de formación y capacitación técnica y cultural serán de acceso libre al pueblo.",
-     "El Artículo 95 de la Constitución Política del Estado establece que los centros interculturales de formación y capacitación técnica y cultural serán de acceso privado para docentes."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 95.I de la CPE dicta: \"...de acceso libre al pueblo, en concordancia con los principios y fines del sistema educativo.\""
-   },
-   {
-    "q": "El Artículo 95 de la CPE también exige a las universidades promover la preservación de las lenguas indígenas. ¿Qué acciones específicas deben implementar?",
-    "options": [
-     "El Artículo 95 de la Constitución Política del Estado establece que deberán implementar programas para la traducción, preservación, desarrollo, aprendizaje y divulgación de las diferentes lenguas.",
-     "El Artículo 95 de la Constitución Política del Estado establece que deberán implementar programas para la investigación, preservación, desarrollo, aprendizaje y enseñanza de las diferentes lenguas.",
-     "El Artículo 95 de la Constitución Política del Estado establece que deberán implementar programas para la promoción, preservación, desarrollo, aprendizaje y certificación de las diferentes lenguas.",
-     "El Artículo 95 de la Constitución Política del Estado establece que deberán implementar programas para la recuperación, preservación, desarrollo, aprendizaje y divulgación de las diferentes lenguas de las naciones y pueblos indígena originario campesinos."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 95.II de la CPE establece: \"Las universidades deberán implementar programas para la recuperación, preservación, desarrollo, aprendizaje y divulgación de las diferentes lenguas...\""
-   },
-   {
-    "q": "El Artículo 96 de la CPE define las características de la formación docente para el magisterio público. ¿Cómo debe ser esta formación?",
-    "options": [
-     "El Artículo 96 de la Constitución Política del Estado establece que la formación docente será única, fiscal, gratuita, intracultural, intercultural y plurilingüe, científica y productiva.",
-     "El Artículo 96 de la Constitución Política del Estado establece que la formación docente será diversa, privada, pagada, intracultural, intercultural y plurilingüe, científica y productiva.",
-     "El Artículo 96 de la Constitución Política del Estado establece que la formación docente será múltiple, estatal, costosa, intracultural, intercultural y plurilingüe, científica y productiva.",
-     "El Artículo 96 de la Constitución Política del Estado establece que la formación docente será singular, mixta, barata, intracultural, intercultural y plurilingüe, científica y productiva."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 96.I de la CPE dicta: \"La formación de docentes será única, fiscal, gratuita, intracultural, intercultural, plurilingüe, científica y productiva...\""
-   },
-   {
-    "q": "El Artículo 96 de la CPE garantiza la estabilidad y los derechos laborales de los docentes. ¿Qué garantías específicas se establecen?",
-    "options": [
-     "El Artículo 96 de la Constitución Política del Estado establece que se garantiza la evaluación docente y la movilidad del personal docente del magisterio.",
-     "El Artículo 96 de la Constitución Política del Estado establece que se garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley.",
-     "El Artículo 96 de la Constitución Política del Estado establece que se garantiza la jubilación docente y la rotación del personal docente del magisterio.",
-     "El Artículo 96 de la Constitución Política del Estado establece que se garantiza la capacitación docente y la destitución del personal docente del magisterio."
+     "La Educación Primaria Comunitaria Vocacional tiene una duración de cinco años de estudio.",
+     "La Educación Primaria Comunitaria Vocacional tiene una duración de seis años de estudio.",
+     "La Educación Primaria Comunitaria Vocacional tiene una duración de siete años de estudio.",
+     "La Educación Primaria Comunitaria Vocacional tiene una duración de ocho años de estudio."
     ],
     "answer": 1,
-    "feedback": "El Artículo 96.III de la CPE establece: \"Se garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley.\""
+    "feedback": "El Artículo 13, último párrafo, establece textualmente: \"De seis años de duración.\""
    },
    {
-    "q": "El Artículo 97 de la CPE establece la misión de la formación post-gradual. ¿Cuál es el objetivo fundamental de este nivel educativo?",
+    "q": "El Artículo 17 establece los objetivos de la Educación Alternativa y Especial. Según su parágrafo 1, ¿a partir de qué edad se prioriza la atención en este subsistema educativo?",
     "options": [
-     "El Artículo 97 de la Constitución Política del Estado establece que la misión fundamental es la certificación de profesionales en diferentes áreas, a través de procesos de investigación científica.",
-     "El Artículo 97 de la Constitución Política del Estado establece que la misión fundamental es la especialización de profesionales en diferentes áreas, a través de procesos de investigación teórica.",
-     "El Artículo 97 de la Constitución Política del Estado establece que la misión fundamental es la cualificación de profesionales en diferentes áreas, a través de procesos de investigación científica y generación de conocimientos vinculados con la realidad.",
-     "El Artículo 97 de la Constitución Política del Estado establece que la misión fundamental es la formación de profesionales en diferentes áreas, a través de procesos de investigación aplicada."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 97 de la CPE dicta: \"La formación post-gradual... tendrá como misión fundamental la cualificación de profesionales en diferentes áreas...\""
-   },
-   {
-    "q": "El Artículo 98 de la CPE establece los fundamentos de la diversidad cultural y la interculturalidad. ¿Cuál es el instrumento para la cohesión y la convivencia armónica?",
-    "options": [
-     "El Artículo 98 de la Constitución Política del Estado establece que la pluriculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones.",
-     "El Artículo 98 de la Constitución Política del Estado establece que la multiculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones.",
-     "El Artículo 98 de la Constitución Política del Estado establece que la interculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones.",
-     "El Artículo 98 de la Constitución Política del Estado establece que la transculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 98.I de la CPE establece: \"La interculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones.\""
-   },
-   {
-    "q": "El Artículo 99 de la CPE define la naturaleza del patrimonio cultural boliviano. ¿Cuáles son las características jurídicas de este patrimonio?",
-    "options": [
-     "El Artículo 99 de la Constitución Política del Estado establece que el patrimonio cultural del pueblo boliviano es inalienable, inembargable e imprescriptible.",
-     "El Artículo 99 de la Constitución Política del Estado establece que el patrimonio cultural del pueblo boliviano es alienable, embargable e imprescriptible.",
-     "El Artículo 99 de la Constitución Política del Estado establece que el patrimonio cultural del pueblo boliviano es transferible, inembargable e imprescriptible.",
-     "El Artículo 99 de la Constitución Política del Estado establece que el patrimonio cultural del pueblo boliviano es inalienable, privatizable e imprescriptible."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 99.I de la CPE dicta: \"El patrimonio cultural del pueblo boliviano es inalienable, inembargable e imprescriptible.\""
-   },
-   {
-    "q": "El Artículo 100 de la CPE reconoce el patrimonio de los pueblos indígena originario campesinos. ¿Qué elemento de la memoria histórica conforma este patrimonio?",
-    "options": [
-     "El Artículo 100 de la Constitución Política del Estado establece que es patrimonio las cosmovisiones, los mitos, la historia escrita, las danzas, las prácticas culturales, los conocimientos y las tecnologías tradicionales.",
-     "El Artículo 100 de la Constitución Política del Estado establece que es patrimonio las cosmovisiones, los mitos, la historia oral, las danzas, las prácticas culturales, los conocimientos y las tecnologías tradicionales.",
-     "El Artículo 100 de la Constitución Política del Estado establece que es patrimonio las cosmovisiones, los ritos, la historia oral, las danzas, las prácticas culturales, los conocimientos y las tecnologías tradicionales.",
-     "El Artículo 100 de la Constitución Política del Estado establece que es patrimonio las cosmovisiones, los mitos, la historia oral, las fiestas, las prácticas culturales, los conocimientos y las tecnologías tradicionales."
+     "Principalmente a personas mayores a diez años que requieren iniciar o continuar sus estudios.",
+     "Principalmente a personas mayores a quince años que requieren iniciar o continuar sus estudios.",
+     "Principalmente a personas mayores a veinte años que requieren iniciar o continuar sus estudios.",
+     "Principalmente a personas mayores a doce años que requieren iniciar o continuar sus estudios."
     ],
     "answer": 1,
-    "feedback": "El Artículo 100.I de la CPE establece: \"Es patrimonio de las naciones y pueblos indígena originario campesinos las cosmovisiones, los mitos, la historia oral, las danzas, las prácticas culturales, los conocimientos y las tecnologías tradicionales.\""
+    "feedback": "El Artículo 17, parágrafo 1, establece: \"principalmente de las personas mayores a quince años que requieren iniciar o continuar sus estudios.\""
    },
    {
-    "q": "De acuerdo con el Artículo 1 de la Ley N° 070, ¿cómo se define la educación en cuanto a sus características principales?",
+    "q": "El Artículo 26 define la estructura de la Educación Especial. Con base en lo dispuesto en este artículo, ¿cuál de las siguientes opciones NO es un área de la Educación Especial?",
     "options": [
-     "Toda persona tiene derecho a recibir educación de manera universal, productiva, gratuita, integral y multicultural, sin discriminación.",
-     "Toda persona tiene derecho a recibir educación de manera universal, productiva, gratuita, integral y transcultural, sin discriminación.",
-     "Toda persona tiene derecho a recibir educación de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.",
-     "Toda persona tiene derecho a recibir educación de manera universal, productiva, gratuita, integral y pluricultural, sin discriminación."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 1.1 de la Ley 070 establece literalmente: \"Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.\""
-   },
-   {
-    "q": "Según el Artículo 2 de la Ley N° 070, ¿cuál es la condición fundamental para el funcionamiento de las unidades educativas de convenio?",
-    "options": [
-     "Que se rijan por las políticas del sistema, con acceso libre y con fines de lucro, bajo tuición pública.",
-     "Que tengan fines de servicio social, con acceso libre y sin fines de lucro, bajo tuición de las autoridades públicas.",
-     "Que tengan fines de servicio privado, con acceso restringido y sin fines de lucro, bajo tuición de las autoridades públicas.",
-     "Que se rijan por las políticas del sistema, con acceso libre y sin fines de lucro, bajo tuición de entidades religiosas."
+     "Educación para Personas con Discapacidad y Educación para Personas con Dificultades en el Aprendizaje.",
+     "Educación para Personas con Discapacidad y Educación para Personas con Talentos Deportivos Exclusivos.",
+     "Educación para Personas con Discapacidad y Educación para Personas con Talento Extraordinario.",
+     "Educación para Personas con Discapacidad y Educación para Personas con Dificultades en el Aprendizaje."
     ],
     "answer": 1,
-    "feedback": "El Artículo 2.4 dicta: \"Se reconoce y respeta el funcionamiento de unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro, que deberán funcionar bajo la tuición de las autoridades públicas...\""
+    "feedback": "El Artículo 26 establece las áreas: \"a) Educación para Personas con Discapacidad. b) Educación para Personas con Dificultades en el Aprendizaje. c) Educación para Personas con Talento Extraordinario.\""
    },
    {
-    "q": "Conforme al Artículo 3 de la Ley N° 070, ¿qué tipo de educación se define como \"despatriarcalizadora\"?",
+    "q": "El Artículo 29 establece los objetivos de la Educación Superior de Formación Profesional. De acuerdo con su parágrafo 5, ¿qué acción se debe realizar respecto a los saberes y conocimientos de las naciones y pueblos indígena originario campesinos?",
     "options": [
-     "La educación es descolonizadora, liberadora, revolucionaria, anti-imperialista, descentralizadora y transformadora de las estructuras.",
-     "La educación es descolonizadora, liberadora, revolucionaria, anti-imperialista, desmovilizadora y transformadora de las estructuras.",
-     "La educación es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras.",
-     "La educación es descolonizadora, liberadora, revolucionaria, anti-imperialista, desestructurante y transformadora de las estructuras."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 3.1 de la Ley 070 establece: \"Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales...\""
-   },
-   {
-    "q": "Según el Artículo 4 de la Ley N° 070, ¿qué tipo de sociedad se busca promover a través de la equidad de género?",
-    "options": [
-     "Promover una sociedad matriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia.",
-     "Promover una sociedad patriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia.",
-     "Promover una sociedad descentralizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia.",
-     "Promover una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 4.6 de la Ley 070 señala: \"Promover una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 5 de la Ley N° 070, ¿cuál es el vínculo fundamental que debe desarrollar la formación integral?",
-    "options": [
-     "Vincular la teoría con la práctica productiva. La educación estará orientada a la formación individual y colectiva, sin discriminación alguna.",
-     "Vincular la teoría con la práctica experimental, orientada a la formación individual y colectiva, sin discriminación.",
-     "Vincular la teoría con la investigación aplicada, orientada a la formación individual y colectiva, sin discriminación.",
-     "Vincular la teoría con la práctica docente, orientada a la formación individual y colectiva, sin discriminación."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 5.1 de la Ley 070 establece: \"Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica... que vincule la teoría con la práctica productiva.\""
-   },
-   {
-    "q": "Según el Artículo 6 de la Ley N° 070, ¿cómo se define la Intraculturalidad?",
-    "options": [
-     "La intraculturalidad promueve la interacción, intercambio, desarrollo y cohesión al interior de las culturas de las naciones y pueblos.",
-     "La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas de las naciones y pueblos.",
-     "La intraculturalidad promueve la recuperación, asimilación, desarrollo y cohesión al interior de las culturas de las naciones y pueblos.",
-     "La intraculturalidad promueve la recuperación, fortalecimiento, expansión y cohesión al interior de las culturas de las naciones y pueblos."
+     "Recuperar y desarrollar los saberes y conocimientos de las naciones y pueblos indígena originario campesinos.",
+     "Recuperar y desarrollar los saberes y conocimientos de las naciones y pueblos indígena originario campesinos.",
+     "Recuperar y desarrollar los saberes y conocimientos de las naciones y pueblos indígena originario campesinos.",
+     "Recuperar y desarrollar los saberes y conocimientos de las naciones y pueblos indígena originario campesinos."
     ],
     "answer": 1,
-    "feedback": "El Artículo 6.1 de la Ley 070 establece: \"La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas de las naciones y pueblos indígena originario campesinos...\""
+    "feedback": "El Artículo 29, parágrafo 5, establece: \"Recuperar y desarrollar los saberes y conocimientos de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas.\""
    },
    {
-    "q": "Conforme al Artículo 7 de la Ley N° 070, ¿en qué lengua debe iniciarse la educación obligatoriamente?",
+    "q": "El Artículo 35 regula la Formación Inicial de Maestras y Maestros. Según su parágrafo III, ¿cuántos años de estudio comprende esta formación y qué grado académico otorga?",
     "options": [
-     "La educación debe iniciarse en la segunda lengua, y su uso es una necesidad pedagógica en todos los aspectos de su formación.",
-     "La educación debe iniciarse en la lengua castellana, y su uso es una necesidad pedagógica en todos los aspectos de su formación.",
-     "La educación debe iniciarse en la lengua materna, y su uso es una necesidad pedagógica en todos los aspectos de su formación.",
-     "La educación debe iniciarse en la lengua extranjera, y su uso es una necesidad pedagógica en todos los aspectos de su formación."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 7 de la Ley 070 dicta: \"La educación debe iniciarse en la lengua materna, y su uso es una necesidad pedagógica en todos los aspectos de su formación.\""
-   },
-   {
-    "q": "Según el Artículo 8 de la Ley N° 070, ¿cuáles son los subsistemas que comprenden el Sistema Educativo Plurinacional?",
-    "options": [
-     "Subsistema Regular, Subsistema Alternativo, Subsistema Técnico.",
-     "Subsistema de Educación Inicial, Subsistema de Educación Primaria, Subsistema de Educación Secundaria.",
-     "Subsistema de Educación Fiscal, Subsistema de Educación Privada, Subsistema de Educación de Convenio.",
-     "Subsistema de Educación Regular, Subsistema de Educación Alternativa y Especial, Subsistema de Educación Superior de Formación Profesional."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 8 de la Ley 070 establece: \"El Sistema Educativo Plurinacional comprende: 1. Subsistema de Educación Regular. 2. Subsistema de Educación Alternativa y Especial. 3. Subsistema de Educación Superior de Formación Profesional.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 9 de la Ley N° 070, ¿qué carácter tiene la Educación Regular?",
-    "options": [
-     "Tiene carácter intracultural, intercultural y plurilingüe en todo el subsistema educativo.",
-     "Tiene carácter multicultural, transcultural y bilingüe en todo el subsistema educativo.",
-     "Tiene carácter endocultural, bicultural y monolingüe en todo el subsistema educativo.",
-     "Tiene carácter pluricultural, intercultural y unilingüe en todo el subsistema educativo."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 9 de la Ley 070 dicta: \"...tiene carácter intracultural, intercultural y plurilingüe en todo el subsistema educativo.\""
-   },
-   {
-    "q": "Según el Artículo 10 de la Ley N° 070, ¿qué tipo de habilidades comunicativas se deben lograr en la Educación Regular?",
-    "options": [
-     "Lograr habilidades y aptitudes comunicativas bilingües mediante el desarrollo de idiomas indígena originarios y castellano.",
-     "Lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas indígena originarios, castellano y un extranjero.",
-     "Lograr habilidades y aptitudes comunicativas bilingües mediante el desarrollo de castellano y un idioma extranjero.",
-     "Lograr habilidades y aptitudes comunicativas multilingües mediante el desarrollo de idiomas indígena originarios y extranjeros."
+     "Comprende la formación general y especializada en cuatro años de estudio con grado de licenciatura.",
+     "Comprende la formación general y especializada en cinco años de estudio con grado de licenciatura.",
+     "Comprende la formación general y especializada en seis años de estudio con grado de licenciatura.",
+     "Comprende la formación general y especializada en tres años de estudio con grado de licenciatura."
     ],
     "answer": 1,
-    "feedback": "El Artículo 10.4 de la Ley 070 establece: \"Lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas indígena originarios, castellano y un extranjero.\""
+    "feedback": "El Artículo 35, parágrafo III, establece: \"El currículo único de la formación de maestras y maestros, comprende la formación general y especializada en cinco años de estudio con grado académico de licenciatura.\""
    },
    {
-    "q": "Conforme al Artículo 12 de la Ley N° 070, ¿cuál es la duración total de la Educación Inicial en Familia Comunitaria?",
+    "q": "El Artículo 41 define la Formación Superior Técnica y Tecnológica. Según su parágrafo 1, ¿qué tipo de formación es y a qué tipo de desarrollo está articulada?",
     "options": [
-     "De tres años de duración, comprendiendo una etapa escolarizada y una no escolarizada.",
-     "De cuatro años de duración, comprendiendo una etapa escolarizada y una no escolarizada.",
-     "De cinco años de duración, comprendiendo dos etapas: no escolarizada (3 años) y escolarizada (2 años).",
-     "De seis años de duración, comprendiendo dos etapas: no escolarizada (4 años) y escolarizada (2 años)."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 12 de la Ley 070 establece: \"...De cinco años de duración, comprende dos etapas: 1. Educación Inicial en Familia Comunitaria, no escolarizada. De tres años de duración. 2. Educación Inicial en Familia Comunitaria, escolarizada. De dos años de duración.\""
-   },
-   {
-    "q": "Según el Artículo 13 de la Ley N° 070, ¿cuál es la duración de la Educación Primaria Comunitaria Vocacional?",
-    "options": [
-     "De cinco años de duración, orientada a la formación básica.",
-     "De seis años de duración, orientada a la formación básica y el desarrollo de capacidades.",
-     "De siete años de duración, orientada a la formación básica y técnica.",
-     "De ocho años de duración, orientada a la formación básica y vocacional."
+     "Es una formación profesional técnica e integral, articulada al desarrollo productivo, sostenible y autogestionario.",
+     "Es una formación profesional técnica e integral, articulada al desarrollo productivo, sostenible y autogestionario.",
+     "Es una formación profesional técnica e integral, articulada al desarrollo productivo, sostenible y autogestionario.",
+     "Es una formación profesional técnica e integral, articulada al desarrollo productivo, sostenible y autogestionario."
     ],
     "answer": 1,
-    "feedback": "El Artículo 13 de la Ley 070 dicta: \"Comprende la formación básica, cimiento de todo el proceso de formación posterior... De seis años de duración.\""
+    "feedback": "El Artículo 41, parágrafo 1, establece: \"Es la formación profesional técnica e integral, articulada al desarrollo productivo, sostenible, sustentable y autogestionario, de carácter científico, práctico-teórico y productivo.\""
    },
    {
-    "q": "Conforme al Artículo 14 de la Ley N° 070, ¿qué diploma se obtiene al culminar la Educación Secundaria Comunitaria Productiva?",
+    "q": "El Artículo 49 describe la estructura institucional de la Formación Artística. Con base en lo dispuesto en este artículo, ¿cuál de las siguientes instituciones NO forma parte de esta estructura?",
     "options": [
-     "Diploma de Bachiller Científico Humanístico, y de manera progresiva con grado de Técnico Superior.",
-     "Diploma de Bachiller Técnico Productivo, y de manera progresiva con grado de Técnico Auxiliar.",
-     "Diploma de Bachiller Técnico Humanístico, y de manera progresiva con grado de Técnico Medio.",
-     "Diploma de Bachiller Humanístico Social, y de manera progresiva con grado de Técnico Básico."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 14.2 de la Ley 070 establece: \"Está orientada a la formación y la obtención del Diploma de Bachiller Técnico Humanístico, y de manera progresiva con grado de Técnico Medio...\""
-   },
-   {
-    "q": "Según el Artículo 16 de la Ley N° 070, ¿a quiénes está destinada prioritariamente la Educación Alternativa y Especial?",
-    "options": [
-     "A estudiantes que requieren educación a distancia por vivir en el extranjero.",
-     "A estudiantes que desean especializarse en un área técnica específica.",
-     "A estudiantes con excelente rendimiento académico que buscan acelerar su formación.",
-     "A personas, familias, comunidades y organizaciones que requieren dar continuidad a sus estudios o que precisan formación permanente."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 16.1 de la Ley 070 dicta: \"Destinada a atender necesidades y expectativas educativas de personas, familias, comunidades y organizaciones que requieren dar continuidad a sus estudios o que precisan formación permanente en y para la vida.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 17 de la Ley N° 070, ¿qué se garantiza a las personas con discapacidad?",
-    "options": [
-     "Una educación oportuna, pertinente e integral, en igualdad de oportunidades y con equiparación de condiciones.",
-     "Una educación especializada en centros exclusivos, con equiparación de condiciones.",
-     "Una educación técnica y laboral, en igualdad de oportunidades y con equiparación de condiciones.",
-     "Una educación básica y alternativa, en igualdad de oportunidades y con equiparación de condiciones."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 17.3 de la Ley 070 establece: \"Garantizar que las personas con discapacidad, cuenten con una educación oportuna, pertinente e integral, en igualdad de oportunidades y con equiparación de condiciones...\""
-   },
-   {
-    "q": "Según el Artículo 23 de la Ley N° 070, ¿a partir de qué edad está destinada la Educación de Personas Jóvenes y Adultas?",
-    "options": [
-     "A las personas mayores a doce años, ofreciendo una educación sistemática.",
-     "A las personas mayores a catorce años, ofreciendo una educación sistemática.",
-     "A las personas mayores a quince años, ofreciendo una educación sistemática.",
-     "A las personas mayores a dieciocho años, ofreciendo una educación sistemática."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 23.I de la Ley 070 dicta: \"La Educación de Personas Jóvenes y Adultas es de carácter técnico-humanístico, está destinada a las personas mayores a quince años, ofrece una educación sistemática.\""
-   },
-   {
-    "q": "Conforme al Artículo 25 de la Ley N° 070, ¿cómo se define a una persona con \"talento extraordinario\"?",
-    "options": [
-     "A estudiantes con rendimiento promedio y alta capacidad de liderazgo.",
-     "A estudiantes con excelente aprovechamiento y toda niña, niño y adolescente con talento natural destacado.",
-     "A estudiantes con dificultades de aprendizaje y alta creatividad artística.",
-     "A estudiantes con rendimiento variable y habilidades sociales destacadas."
+     "Centros de Capacitación Artística y Institutos de Formación Artística.",
+     "Centros de Capacitación Artística y Universidades Privadas de Formación Artística.",
+     "Centros de Capacitación Artística y Escuelas Bolivianas Interculturales.",
+     "Centros de Capacitación Artística y Institutos de Formación Artística."
     ],
     "answer": 1,
-    "feedback": "El Artículo 25.I de la Ley 070 establece: \"Entiéndase a efectos de la presente Ley a personas con talento extraordinario a estudiantes con excelente aprovechamiento y toda niña, niño y adolescente con talento natural destacado...\""
+    "feedback": "El Artículo 49 establece: \"I. Centros de Capacitación Artística... II. Institutos de Formación Artística... III. Escuelas Bolivianas Interculturales\"."
    },
    {
-    "q": "Según el Artículo 28 de la Ley N° 070, ¿a qué tipo de necesidades debe responder la Educación Superior de Formación Profesional?",
+    "q": "El Artículo 54 establece los niveles y grados académicos reconocidos. De acuerdo con su parágrafo 2, ¿cuál es el grado académico máximo reconocido en el post grado?",
     "options": [
-     "Únicamente a las necesidades de investigación científica pura.",
-     "A las necesidades de formación técnica del sector industrial.",
-     "A las necesidades y demandas sociales, económicas, productivas y culturales de la sociedad y del Estado Plurinacional.",
-     "A las necesidades de formación docente y capacitación continua."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 28 de la Ley 070 dicta: \"...que responde a las necesidades y demandas sociales, económicas, productivas y culturales de la sociedad y del Estado Plurinacional.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 30 de la Ley N° 070, ¿cuáles son las áreas que comprenden la Educación Superior?",
-    "options": [
-     "Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística, Formación Militar.",
-     "Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística, Formación Policial.",
-     "Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística, Formación Universitaria.",
-     "Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística, Formación Humanística."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 30 de la Ley 070 establece: \"La Educación Superior de Formación Profesional comprende: a) Formación de Maestras y Maestros. b) Formación Técnica y Tecnológica. c) Formación Artística. d) Formación Universitaria.\""
-   },
-   {
-    "q": "Según el Artículo 32 de la Ley N° 070, ¿cómo debe ser la Formación Superior de Maestras y Maestros en cuanto a su jerarquía?",
-    "options": [
-     "Única, en cuanto a jerarquía profesional, calidad pedagógica, científica y con vocación de servicio.",
-     "Diversa, en cuanto a jerarquía profesional, calidad pedagógica, científica y con vocación de servicio.",
-     "Plural, en cuanto a jerarquía profesional, calidad pedagógica, científica y con vocación de servicio.",
-     "Específica, en cuanto a jerarquía profesional, calidad pedagógica, científica y con vocación de servicio."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 32.1 de la Ley 070 dicta: \"La Formación de Maestras y Maestros es: 1. Única, en cuanto a jerarquía profesional, calidad pedagógica, científica y con vocación de servicio.\""
-   },
-   {
-    "q": "Conforme al Artículo 35 de la Ley N° 070, ¿cuántos años de estudio comprende el currículo único de formación inicial?",
-    "options": [
-     "Comprende la formación general y especializada en cuatro años de estudio con grado académico de licenciatura.",
-     "Comprende la formación general y especializada en cinco años de estudio con grado académico de licenciatura.",
-     "Comprende la formación general y especializada en seis años de estudio con grado académico de licenciatura.",
-     "Comprende la formación general y especializada en tres años de estudio con grado académico de licenciatura."
+     "El grado académico máximo reconocido en el post grado es el de Doctorado.",
+     "El grado académico máximo reconocido en el post grado es el de Post doctorado.",
+     "El grado académico máximo reconocido en el post grado es el de Maestría.",
+     "El grado académico máximo reconocido en el post grado es el de Especialidad."
     ],
     "answer": 1,
-    "feedback": "El Artículo 35.III de la Ley 070 establece: \"El currículo único de la formación de maestras y maestros, comprende la formación general y especializada en cinco años de estudio con grado académico de licenciatura.\""
+    "feedback": "El Artículo 54, parágrafo 2, establece los niveles de post grado: \"1. Diplomado. 2. Especialidad. 3. Maestría. 4. Doctorado. 5. Post doctorado.\""
    },
    {
-    "q": "Según el Artículo 36 de la Ley N° 070, ¿quiénes son las únicas instituciones autorizadas para ofertar la formación de maestras y maestros?",
+    "q": "El Artículo 60 regula las Universidades Indígenas. Según su parágrafo 3, ¿quiénes conforman la instancia de definición de políticas en estas universidades?",
     "options": [
-     "Las Universidades Públicas Autónomas y las Escuelas Superiores de Formación de Maestras y Maestros.",
-     "Los Institutos Técnicos y Tecnológicos y las Escuelas Superiores de Formación de Maestras y Maestros.",
-     "Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas instituciones autorizadas.",
-     "Las Universidades Privadas y las Escuelas Superiores de Formación de Maestras y Maestros."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 36 de la Ley 070 dicta: \"Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas instituciones autorizadas para ofertar y desarrollar programas académicos de formación de maestras y maestros.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 41 de la Ley N° 070, ¿cuál es la naturaleza de la Formación Superior Técnica y Tecnológica?",
-    "options": [
-     "Es la formación profesional técnica e integral, articulada al desarrollo productivo, sostenible, sustentable y autogestionario.",
-     "Es la formación profesional técnica e integral, articulada al desarrollo industrial, sostenible, sustentable y autogestionario.",
-     "Es la formación profesional técnica e integral, articulada al desarrollo comercial, sostenible, sustentable y autogestionario.",
-     "Es la formación profesional técnica e integral, articulada al desarrollo científico, sostenible, sustentable y autogestionario."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 41.1 de la Ley 070 establece: \"Es la formación profesional técnica e integral, articulada al desarrollo productivo, sostenible, sustentable y autogestionario...\""
-   },
-   {
-    "q": "Según el Artículo 52 de la Ley N° 070, ¿a qué tipo de desarrollo busca contribuir la Formación Superior Universitaria?",
-    "options": [
-     "Al desarrollo científico y tecnológico del país, expresado en sus dimensiones política y económica.",
-     "Al desarrollo social y cultural del país, expresado en sus dimensiones política y sociocultural.",
-     "Al desarrollo productivo del país expresado en sus dimensiones política, económica y sociocultural.",
-     "Al desarrollo educativo y pedagógico del país, expresado en sus dimensiones política y económica."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 52 de la Ley 070 dicta: \"...para contribuir al desarrollo productivo del país expresado en sus dimensiones política, económica y sociocultural...\""
-   },
-   {
-    "q": "Conforme al Artículo 55 de la Ley N° 070, ¿cuáles son las Universidades reconocidas por el Estado?",
-    "options": [
-     "Universidades Públicas Autónomas, Universidades Privadas, Universidades Indígenas, Universidades Militares.",
-     "Universidades Públicas Autónomas, Universidades Privadas, Universidades Indígenas, Universidades Policiales.",
-     "Universidades Públicas Autónomas, Universidades Privadas, Universidades Indígenas, Universidades Tecnológicas.",
-     "Universidades Públicas Autónomas, Universidades Privadas, Universidades Indígenas, Universidades de Régimen Especial."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 55 de la Ley 070 establece: \"Las Universidades reconocidas por el Estado Plurinacional de Bolivia son: 1. Universidades Públicas Autónomas. 2. Universidades Privadas. 3. Universidades Indígenas. 4. Universidades de Régimen Especial.\""
-   },
-   {
-    "q": "Según el Artículo 59 de la Ley N° 070, ¿quién otorga los Títulos Profesionales en las Universidades Privadas?",
-    "options": [
-     "El Ministerio de Educación, sobre la base de la reglamentación específica.",
-     "Las propias Universidades Privadas, con validez en todo el territorio nacional.",
-     "La Agencia Plurinacional de Evaluación y Acreditación de la Educación Superior.",
-     "Las Universidades Públicas, a través de un convenio de homologación."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 59.4 de la Ley 070 dicta: \"Las Universidades Privadas están autorizadas para expedir Diplomas Académicos. Los Títulos Profesionales serán otorgados por el Ministerio de Educación.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 60 de la Ley N° 070, ¿quiénes son la instancia de definición de políticas institucionales en las Universidades Indígenas?",
-    "options": [
-     "Los Consejos Universitarios, compuestos por docentes y estudiantes indígenas.",
-     "Las Juntas Comunitarias, compuestas por organizaciones indígenas nacionales y departamentales.",
-     "Las Asambleas Deliberativas, compuestas por autoridades del Ministerio de Educación.",
-     "Los Directorios Ejecutivos, compuestos por representantes de las autonomías indígenas."
+     "La instancia de definición de políticas son los Consejos Universitarios y las Juntas Directivas.",
+     "La instancia de definición de políticas son las Juntas Comunitarias, compuestas por organizaciones indígenas.",
+     "La instancia de definición de políticas son los Ministerios de Educación y de Planificación.",
+     "La instancia de definición de políticas son los Consejos Universitarios y las Juntas Directivas."
     ],
     "answer": 1,
-    "feedback": "El Artículo 60.3 de la Ley 070 establece: \"La instancia de definición de políticas institucionales, en las Universidades Indígenas, son las Juntas Comunitarias, compuestas por organizaciones indígenas nacionales y departamentales...\""
+    "feedback": "El Artículo 60, parágrafo 3, establece: \"La instancia de definición de políticas institucionales, en las Universidades Indígenas, son las Juntas Comunitarias, compuestas por organizaciones indígenas nacionales y departamentales.\""
    },
    {
-    "q": "Según el Artículo 68 de la Ley N° 070, ¿qué contempla el proceso de evaluación de la calidad de la educación superior?",
+    "q": "El Artículo 69 regula la organización curricular. Según su parágrafo 3, ¿quién es responsable de diseñar, aprobar e implementar el currículo base?",
     "options": [
-     "Contempla la autoevaluación, la evaluación por pares y la evaluación gubernamental.",
-     "Contempla la autoevaluación, la evaluación externa y la evaluación institucional.",
-     "Contempla la autoevaluación, la evaluación por pares y la evaluación social.",
-     "Contempla la autoevaluación, la evaluación interna y la evaluación comunitaria."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 68.I de la Ley 070 dicta: \"La evaluación es el proceso de cualificación de la calidad de la educación superior universitaria; contempla la autoevaluación, la evaluación por pares y la evaluación social.\""
-   },
-   {
-    "q": "Conforme al Artículo 69 de la Ley N° 070, ¿qué tipo de currículo es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar?",
-    "options": [
-     "El currículo regionalizado, con participación de los actores educativos.",
-     "El currículo diversificado, con participación de los actores educativos.",
-     "El currículo local, con participación de los actores educativos.",
-     "El currículo base, con participación de los actores educativos."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 69.3 de la Ley 070 establece: \"Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base con participación de los actores educativos...\""
-   },
-   {
-    "q": "Según el Artículo 70 de la Ley N° 070, ¿qué expresa el currículo regionalizado?",
-    "options": [
-     "La particularidad y complementariedad en armonía con el currículo base del Sistema Educativo Plurinacional.",
-     "La generalidad y uniformidad en armonía con el currículo base del Sistema Educativo Plurinacional.",
-     "La universalidad y estandarización en armonía con el currículo base del Sistema Educativo Plurinacional.",
-     "La globalidad y homogeneidad en armonía con el currículo base del Sistema Educativo Plurinacional."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 70.1 de la Ley 070 dicta: \"...que expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo Plurinacional...\""
-   },
-   {
-    "q": "Según el Artículo 72 de la Ley N° 070, ¿qué instancia ejerce tuición sobre la administración y gestión del Sistema Educativo Plurinacional?",
-    "options": [
-     "El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración y gestión del Sistema Educativo.",
-     "El Estado Plurinacional, a través del Ministerio de Planificación, ejerce tuición sobre la administración y gestión del Sistema Educativo.",
-     "El Estado Plurinacional, a través del Ministerio de Justicia, ejerce tuición sobre la administración y gestión del Sistema Educativo.",
-     "El Estado Plurinacional, a través del Ministerio de Economía, ejerce tuición sobre la administración y gestión del Sistema Educativo."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 72.I de la Ley 070 establece textualmente: \"El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración y gestión del Sistema Educativo Plurinacional.\""
-   },
-   {
-    "q": "Conforme al Artículo 73 de la Ley N° 070, ¿cómo se debe dar la toma de decisiones en el sistema educativo?",
-    "options": [
-     "Verticalidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel.",
-     "Horizontalidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel.",
-     "Unilateralidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel.",
-     "Discrecionalidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel."
+     "Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base.",
+     "Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base.",
+     "Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base.",
+     "Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base."
     ],
     "answer": 1,
-    "feedback": "El Artículo 73.2 de la Ley 070 dicta: \"Horizontalidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel y ámbito del Sistema Educativo Plurinacional.\""
+    "feedback": "El Artículo 69, parágrafo 3, establece: \"Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base con participación de los actores educativos\"."
    },
    {
-    "q": "Según el Artículo 76 de la Ley N° 070, ¿cómo se organiza la administración y gestión del sistema?",
+    "q": "El Artículo 71 define la administración y gestión de la educación. Según este artículo, ¿qué instancia planifica, organiza, dirige y controla los recursos del Sistema Educativo?",
     "options": [
-     "Nivel Central, Nivel Regional, Nivel Local.",
-     "Nivel Nacional, Nivel Departamental, Nivel Municipal.",
-     "Nivel Central, Nivel Departamental, Nivel Autonómico.",
-     "Nivel Central, Nivel Distrital, Nivel de Núcleo."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 76 de la Ley 070 establece: \"La administración y gestión se organiza en: 1. Nivel Central. 2. Nivel Departamental. 3. Nivel Autonómico.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 78 de la Ley N° 070, ¿qué son las Direcciones Departamentales de Educación (DDE)?",
-    "options": [
-     "Entidades autárquicas del Ministerio de Educación, responsables de la implementación de las políticas educativas.",
-     "Entidades descentralizadas del Gobierno Departamental, responsables de la implementación de las políticas educativas.",
-     "Entidades desconcentradas del Ministerio de Educación, responsables de la implementación de las políticas educativas.",
-     "Entidades descentralizadas del Ministerio de Educación, responsables de la implementación de las políticas educativas."
-    ],
-    "answer": 3,
-    "feedback": "El Artículo 78.1 de la Ley 070 dicta: \"Direcciones Departamentales de Educación - DDE, entidades descentralizadas del Ministerio de Educación, responsables de la implementación de las políticas educativas y de administración curricular en el departamento...\""
-   },
-   {
-    "q": "Conforme al Artículo 79 de la Ley N° 070, ¿cómo son designados los Directores Departamentales de Educación?",
-    "options": [
-     "Por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia.",
-     "Por el Presidente del Estado, como resultado de concurso de méritos y examen de competencia.",
-     "Por los Gobiernos Departamentales, como resultado de concurso de méritos y examen de competencia.",
-     "Por la Asamblea Legislativa, como resultado de concurso de méritos y examen de competencia."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 79.1 de la Ley 070 establece: \"Las y los Directores y Subdirectores Departamentales serán designados por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia...\""
-   },
-   {
-    "q": "Según el Artículo 80 de la Ley N° 070, ¿qué responsabilidad tienen los Gobiernos Municipales en la gestión educativa?",
-    "options": [
-     "Dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de los Institutos Técnicos.",
-     "Dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Unidades Educativas de Educación Regular, Alternativa y Especial.",
-     "Dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Escuelas Superiores.",
-     "Dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Universidades Públicas."
+     "La instancia que planifica, organiza, dirige y controla los recursos es la Administración y Gestión de la Educación.",
+     "La instancia que planifica, organiza, dirige y controla los recursos es la Administración y Gestión de la Educación.",
+     "La instancia que planifica, organiza, dirige y controla los recursos es la Administración y Gestión de la Educación.",
+     "La instancia que planifica, organiza, dirige y controla los recursos es la Administración y Gestión de la Educación."
     ],
     "answer": 1,
-    "feedback": "El Artículo 80.2.a de la Ley 070 dicta: \"Gobiernos Municipales: a) Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Unidades Educativas de Educación Regular, Educación Alternativa y Especial...\""
+    "feedback": "El Artículo 71 establece: \"Es la instancia que planifica, organiza, dirige y controla los recursos del Sistema Educativo Plurinacional, con participación social.\""
    },
    {
-    "q": "De acuerdo con el Artículo 81 de la Ley N° 070, ¿quién otorga el Diploma de Bachiller?",
+    "q": "El Artículo 78 describe el Nivel Departamental de la gestión del Sistema Educativo. Según su parágrafo 3, ¿cuál es la dependencia de las Direcciones Distritales Educativas?",
     "options": [
-     "El Ministerio de Educación, a través de las Universidades Públicas, a la culminación de los estudios del nivel de Educación Secundaria.",
-     "El Ministerio de Educación, a través de las Direcciones Departamentales de Educación, a la culminación de los estudios del nivel de Educación Secundaria.",
-     "El Ministerio de Educación, a través de las Direcciones Distritales, a la culminación de los estudios del nivel de Educación Secundaria.",
-     "El Ministerio de Educación, a través de los Gobiernos Municipales, a la culminación de los estudios del nivel de Educación Secundaria."
+     "Las Direcciones Distritales Educativas dependen de las Direcciones Departamentales de Educación.",
+     "Las Direcciones Distritales Educativas dependen de las Direcciones Departamentales de Educación.",
+     "Las Direcciones Distritales Educativas dependen de las Direcciones Departamentales de Educación.",
+     "Las Direcciones Distritales Educativas dependen de las Direcciones Departamentales de Educación."
     ],
     "answer": 1,
-    "feedback": "El Artículo 81 de la Ley 070 establece: \"El Ministerio de Educación a través de las Direcciones Departamentales de Educación, a la culminación de los estudios del nivel de Educación Secundaria Comunitaria Productiva y Educación Secundaria de Adultos, otorgará gratuitamente el Diploma de Bachiller...\""
+    "feedback": "El Artículo 78, parágrafo 3, establece: \"Direcciones Distritales Educativas, dependientes de las Direcciones Departamentales, responsables de la gestión educativa y administración curricular en el ámbito de su jurisdicción\"."
    },
    {
-    "q": "Según el Artículo 82 de la Ley N° 070, ¿qué reconocerá el Estado a través del Sistema Plurinacional de Certificación?",
+    "q": "El Artículo 80 establece las atribuciones de los Gobiernos Departamentales en la gestión educativa. Según su parágrafo 1, literal",
     "options": [
-     "Las competencias académicas y científicas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la teoría.",
-     "Las competencias deportivas y culturales de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la práctica.",
-     "Las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la práctica a lo largo de la vida.",
-     "Las competencias técnicas y tecnológicas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la academia."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 82 de la Ley 070 dicta: \"El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la práctica a lo largo de la vida, a través del Sistema Plurinacional de Certificación de Competencias.\""
-   },
-   {
-    "q": "Conforme al Artículo 83 de la Ley N° 070, ¿qué tipo de institución es el Observatorio de la Calidad Educativa?",
-    "options": [
-     "Institución pública centralizada, técnica, especializada, dependiente del Ministerio de Educación.",
-     "Institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones.",
-     "Institución pública desconcentrada, empírica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones.",
-     "Institución privada descentralizada, técnica, generalista, independiente en cuanto al proceso y resultados de sus evaluaciones."
+     ", ¿qué deben garantizar los Gobiernos Departamentales en su jurisdicción? Respuesta a) Los Gobiernos Departamentales deben dotar, financiar y garantizar los servicios básicos de los Institutos Técnicos.",
+     "Los Gobiernos Departamentales deben dotar, financiar y garantizar los servicios básicos de los Institutos Técnicos.",
+     "Los Gobiernos Departamentales deben dotar, financiar y garantizar los servicios básicos de los Institutos Técnicos.",
+     "Los Gobiernos Departamentales deben dotar, financiar y garantizar los servicios básicos de los Institutos Técnicos."
     ],
     "answer": 1,
-    "feedback": "El Artículo 83.1 de la Ley 070 establece: \"Se crea el Observatorio Plurinacional de la Calidad Educativa, institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones.\""
+    "feedback": "El Artículo 80, parágrafo 1, literal a), establece: \"Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento a los Institutos Técnicos y Tecnológicos en su jurisdicción.\""
    },
    {
-    "q": "Según el Artículo 87 de la Ley N° 070, ¿cuál es la finalidad del Instituto de Investigaciones Educativas Plurinacional?",
+    "q": "El Artículo 81 regula la entrega del Diploma de Bachiller. Según este artículo, ¿quién otorga gratuitamente este diploma a la culminación de los estudios?",
     "options": [
-     "Diseñar y desarrollar estrategias de apoyo a las políticas de transformación del Sistema Educativo Plurinacional.",
-     "Diseñar y desarrollar estrategias de evaluación a las políticas de transformación del Sistema Educativo.",
-     "Diseñar y desarrollar estrategias de fiscalización a las políticas de transformación del Sistema Educativo.",
-     "Diseñar y desarrollar estrategias de financiamiento a las políticas de transformación del Sistema Educativo."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 87 de la Ley 070 dicta: \"Se crea el Instituto de Investigaciones Educativas Plurinacional dependiente del Ministerio de Educación, para diseñar y desarrollar estrategias de apoyo a las políticas de transformación del Sistema Educativo Plurinacional.\""
-   },
-   {
-    "q": "De acuerdo con el Artículo 88 de la Ley N° 070, ¿quién financiará y sostendrá los institutos de lenguas y culturas de cada nación o pueblo indígena?",
-    "options": [
-     "El Tesoro General de la Nación, de manera exclusiva.",
-     "Las entidades territoriales autónomas, según lo establecido en la ley.",
-     "La Cooperación Internacional, mediante convenios bilaterales.",
-     "El Ministerio de Educación, a través de su presupuesto anual."
+     "El Ministerio de Educación a través de las Direcciones Departamentales de Educación otorga el Diploma de Bachiller.",
+     "El Ministerio de Educación a través de las Direcciones Departamentales de Educación otorga el Diploma de Bachiller.",
+     "El Ministerio de Educación a través de las Direcciones Departamentales de Educación otorga el Diploma de Bachiller.",
+     "El Ministerio de Educación a través de las Direcciones Departamentales de Educación otorga el Diploma de Bachiller."
     ],
     "answer": 1,
-    "feedback": "El Artículo 88.2 de la Ley 070 establece: \"...los mismos que serán financiados y sostenidos por las entidades territoriales autónomas.\""
+    "feedback": "El Artículo 81 establece: \"El Ministerio de Educación a través de las Direcciones Departamentales de Educación, a la culminación de los estudios... otorgará gratuitamente el Diploma de Bachiller\"."
    },
    {
-    "q": "Según el Artículo 89 de la Ley N° 070, ¿cómo será financiado el Sistema Educativo Plurinacional?",
+    "q": "El Artículo 83 crea el Observatorio Plurinacional de la Calidad Educativa. Según su parágrafo 2, ¿qué institución se encarga de la evaluación y acreditación de la calidad educativa?",
     "options": [
-     "Por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de las entidades territoriales autónomas.",
-     "Por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de la cooperación internacional.",
-     "Por el Estado Plurinacional, a través de recursos de las entidades territoriales autónomas y de la empresa privada.",
-     "Por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de las universidades privadas."
-    ],
-    "answer": 0,
-    "feedback": "El Artículo 89 de la Ley 070 dicta: \"El Sistema Educativo Plurinacional será financiado por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según corresponda...\""
-   },
-   {
-    "q": "Conforme al Artículo 90 de la Ley N° 070, ¿quiénes son los actores que intervienen en la Participación Social Comunitaria?",
-    "options": [
-     "Los docentes, los directores y el Ministerio de Educación.",
-     "Los sindicatos, las fuerzas armadas y las organizaciones no gubernamentales.",
-     "Los actores sociales, actores comunitarios, madres y padres de familia con representación y legitimidad.",
-     "Los estudiantes, los docentes y los representantes de los partidos políticos."
-    ],
-    "answer": 2,
-    "feedback": "El Artículo 90 de la Ley 070 establece: \"Es la instancia de participación de los actores sociales, actores comunitarios, madres y padres de familia con representación y legitimidad, vinculados al ámbito educativo.\""
-   },
-   {
-    "q": "Según el Artículo 92 de la Ley N° 070, ¿cada cuánto tiempo es convocado el Congreso Plurinacional de Educación?",
-    "options": [
-     "Será convocado por el Ministerio de Educación cada tres años.",
-     "Será convocado por el Ministerio de Educación cada cinco años.",
-     "Será convocado por el Ministerio de Educación cada cuatro años.",
-     "Será convocado por el Ministerio de Educación cada diez años."
+     "El Observatorio Plurinacional de la Calidad Educativa se encarga de la evaluación y acreditación.",
+     "El Observatorio Plurinacional de la Calidad Educativa se encarga de la evaluación y acreditación.",
+     "El Observatorio Plurinacional de la Calidad Educativa se encarga de la evaluación y acreditación.",
+     "El Observatorio Plurinacional de la Calidad Educativa se encarga de la evaluación y acreditación."
     ],
     "answer": 1,
-    "feedback": "El Artículo 92.1 de la Ley 070 dicta: \"Congreso Plurinacional de Educación: Es la instancia máxima de participación de todos los sectores de la sociedad... Será convocado por el Ministerio de Educación cada cinco años.\""
+    "feedback": "El Artículo 83, parágrafo 2, establece: \"El Observatorio Plurinacional de la Calidad Educativa estará encargado de realizar el seguimiento, medición, evaluación y acreditación de la calidad educativa\"."
    },
    {
-    "q": "De acuerdo con el Artículo 3 de la Ley N° 070, ¿por qué se dice que la educación es \"única, diversa y plural\"?",
+    "q": "El Artículo 88 regula el Instituto Plurinacional de Estudio de Lenguas y Culturas. Según su parágrafo 2, ¿quién financia los institutos de lenguas y culturas por cada nación o pueblo indígena?",
     "options": [
-     "Única en cuanto a calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y privado, lo urbano y rural.",
-     "Única en cuanto a infraestructura, diversa y plural en su aplicación y pertinencia a cada contexto.",
-     "Única en cuanto a evaluación, diversa y plural en su aplicación y pertinencia a cada contexto.",
-     "Única en cuanto a gestión, diversa y plural en su aplicación y pertinencia a cada contexto."
+     "Los institutos de lenguas y culturas son financiados y sostenidos por las entidades territoriales autónomas.",
+     "Los institutos de lenguas y culturas son financiados y sostenidos por las entidades territoriales autónomas.",
+     "Los institutos de lenguas y culturas son financiados y sostenidos por las entidades territoriales autónomas.",
+     "Los institutos de lenguas y culturas son financiados y sostenidos por las entidades territoriales autónomas."
     ],
-    "answer": 0,
-    "feedback": "El Artículo 3.4 de la Ley 070 dicta: \"Es única, diversa y plural. Única en cuanto a calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y privado, lo urbano y rural...\""
+    "answer": 1,
+    "feedback": "El Artículo 88, parágrafo 2, establece: \"los mismos que serán financiados y sostenidos por las entidades territoriales autónomas.\""
    },
    {
-    "q": "Conforme al Artículo 3 de la Ley N° 070, ¿cómo se define el carácter \"laico\" de la educación?",
+    "q": "El Artículo 92 establece las instancias de Participación Social Comunitaria. Según su parágrafo 1, ¿cada cuántos años se convoca al Congreso Plurinacional de Educación?",
     "options": [
-     "Es laica porque prohíbe toda enseñanza religiosa en las escuelas públicas.",
-     "Es laica porque impone una religión oficial en el sistema educativo.",
-     "Es laica, pluralista y espiritual, reconoce y garantiza la libertad de conciencia y de fe y de la enseñanza de religión... sin imposición dogmática.",
-     "Es laica porque separa completamente la fe de la ciencia, excluyendo la espiritualidad indígena del currículo."
+     "El Congreso Plurinacional de Educación será convocado por el Ministerio de Educación cada cinco años.",
+     "El Congreso Plurinacional de Educación será convocado por el Ministerio de Educación cada cinco años.",
+     "El Congreso Plurinacional de Educación será convocado por el Ministerio de Educación cada cinco años.",
+     "El Congreso Plurinacional de Educación será convocado por el Ministerio de Educación cada cinco años."
     ],
-    "answer": 2,
-    "feedback": "El Artículo 3.6 de la Ley 070 establece: \"Es laica, pluralista y espiritual, reconoce y garantiza la libertad de conciencia y de fe y de la enseñanza de religión... sin imposición dogmática, y propiciando el diálogo interreligioso.\""
+    "answer": 1,
+    "feedback": "El Artículo 92, parágrafo 1, establece: \"Será convocado por el Ministerio de Educación cada cinco años.\""
    },
    {
-    "q": "Según el Artículo 7 de la Ley N° 070, ¿cuándo se inicia la enseñanza de la lengua extranjera?",
+    "q": "La Disposición Transitoria Primera regula la adecuación del Observatorio de la Calidad Educativa. Según esta disposición, ¿en qué plazo el Observatorio adecuará su estructura y funcionamiento?",
     "options": [
-     "Se inicia de forma gradual y obligatoria en el nivel secundario.",
-     "Se inicia de forma gradual y obligatoria en el nivel superior.",
+     "El Observatorio de la Calidad Educativa adecuará su estructura en el plazo de noventa días.",
+     "El Observatorio de la Calidad Educativa adecuará su estructura en el plazo de noventa días.",
+     "El Observatorio de la Calidad Educativa adecuará su estructura en el plazo de noventa días.",
+     "El Observatorio de la Calidad Educativa adecuará su estructura en el plazo de noventa días."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Primera establece: \"En el plazo de noventa días el Observatorio de la Calidad Educativa adecuará su estructura y funcionamiento\"."
+   },
+   {
+    "q": "La Disposición Transitoria Cuarta regula el funcionamiento de las Universidades Privadas. Según esta disposición, ¿en qué plazo las Universidades Privadas tramitarán la jerarquización de su normativa?",
+    "options": [
+     "Las Universidades Privadas tramitarán la jerarquización de su normativa en el plazo de ciento ochenta días.",
+     "Las Universidades Privadas tramitarán la jerarquización de su normativa en el plazo de ciento ochenta días.",
+     "Las Universidades Privadas tramitarán la jerarquización de su normativa en el plazo de ciento ochenta días.",
+     "Las Universidades Privadas tramitarán la jerarquización de su normativa en el plazo de ciento ochenta días."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Cuarta establece: \"tramitarán en ciento ochenta días la jerarquización de la normativa que autoriza su funcionamiento\"."
+   },
+   {
+    "q": "La Disposición Abrogatoria Única establece la derogación de normativas anteriores. Según esta disposición, ¿qué ley de reforma educativa se abroga con la Ley 070?",
+    "options": [
+     "Se abroga la Ley 1565 de Reforma Educativa, de fecha 07 de julio de 1994.",
+     "Se abroga la Ley 1565 de Reforma Educativa, de fecha 07 de julio de 1994.",
+     "Se abroga la Ley 1565 de Reforma Educativa, de fecha 07 de julio de 1994.",
+     "Se abroga la Ley 1565 de Reforma Educativa, de fecha 07 de julio de 1994."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Abrogatoria Única establece: \"Se abrogan la Ley 1565 de Reforma Educativa, de fecha 07 de julio de 1994, la Ley 3009 del Consejo Nacional de Acreditación\"."
+   },
+   {
+    "q": "El Artículo 1, en su parágrafo 4, describe la composición del sistema educativo. Según este parágrafo, ¿qué tipo de instituciones educativas componen el sistema?",
+    "options": [
+     "El sistema está compuesto por instituciones educativas fiscales, privadas y de convenio.",
+     "El sistema está compuesto por instituciones educativas fiscales, privadas y de convenio.",
+     "El sistema está compuesto por instituciones educativas fiscales, privadas y de convenio.",
+     "El sistema está compuesto por instituciones educativas fiscales, privadas y de convenio."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 1, parágrafo 4, establece: \"El sistema educativo está compuesto por las instituciones educativas fiscales, instituciones educativas privadas y de convenio.\""
+   },
+   {
+    "q": "El Artículo 5 establece los objetivos de la educación. Con base en lo dispuesto en este artículo, ¿cuál de las siguientes opciones NO es un objetivo de la educación?",
+    "options": [
+     "Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica.",
+     "Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica.",
+     "Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica.",
+     "Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 5, parágrafo 1, establece: \"Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica de la vida y en la vida para Vivir Bien\"."
+   },
+   {
+    "q": "El Artículo 6 define la intraculturalidad. Según su parágrafo 1, ¿qué promueve la intraculturalidad en el sistema educativo?",
+    "options": [
+     "La intraculturalidad promueve la recuperación, fortalecimiento y cohesión al interior de las culturas.",
+     "La intraculturalidad promueve la recuperación, fortalecimiento y cohesión al interior de las culturas.",
+     "La intraculturalidad promueve la recuperación, fortalecimiento y cohesión al interior de las culturas.",
+     "La intraculturalidad promueve la recuperación, fortalecimiento y cohesión al interior de las culturas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 6, parágrafo 1, establece: \"La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas\"."
+   },
+   {
+    "q": "El Artículo 10 establece los objetivos de la Educación Regular. Según su parágrafo 4, ¿qué tipo de habilidades comunicativas se deben lograr en este nivel?",
+    "options": [
+     "Se deben lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas.",
+     "Se deben lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas.",
+     "Se deben lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas.",
+     "Se deben lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 10, parágrafo 4, establece: \"Lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas indígena originarios, castellano y un extranjero.\""
+   },
+   {
+    "q": "El Artículo 15 regula la educación escolarizada integral para la población en desventaja social. Según este artículo, ¿a quiénes está dirigida esta educación?",
+    "options": [
+     "Está dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos.",
+     "Está dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos.",
+     "Está dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos.",
+     "Está dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 15 establece: \"Es la educación integral escolarizada dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos y en desventaja social\"."
+   },
+   {
+    "q": "El Artículo 19 regula la Educación Técnica-Humanística en Educación Alternativa y Especial. Según su parágrafo 3, ¿qué certificaciones se obtienen en los niveles de formación técnica?",
+    "options": [
+     "Se obtienen certificaciones como Técnico Básico, Técnico Auxiliar y Técnico Medio.",
+     "Se obtienen certificaciones como Técnico Básico, Técnico Auxiliar y Técnico Medio.",
+     "Se obtienen certificaciones como Técnico Básico, Técnico Auxiliar y Técnico Medio.",
+     "Se obtienen certificaciones como Técnico Básico, Técnico Auxiliar y Técnico Medio."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 19, parágrafo 3, establece: \"Los niveles de la formación y capacitación técnica tendrán su respectiva certificación como Técnico Básico, Técnico Auxiliar y Técnico Medio\"."
+   },
+   {
+    "q": "El Artículo 23 regula la Educación de Personas Jóvenes y Adultas. Según su parágrafo III, ¿qué certificación se entrega al concluir la Educación Secundaria de Personas Jóvenes y Adultas?",
+    "options": [
+     "Se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico.",
+     "Se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico.",
+     "Se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico.",
+     "Se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 23, parágrafo III, establece: \"se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico\"."
+   },
+   {
+    "q": "El Artículo 27 regula las modalidades y centros de atención educativa. Según su parágrafo 2, ¿cómo se realiza la certificación de los estudiantes bajo la modalidad directa?",
+    "options": [
+     "La certificación se realiza en función de su desarrollo personal mediante una evaluación integral.",
+     "La certificación se realiza en función de su desarrollo personal mediante una evaluación integral.",
+     "La certificación se realiza en función de su desarrollo personal mediante una evaluación integral.",
+     "La certificación se realiza en función de su desarrollo personal mediante una evaluación integral."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 27, parágrafo 2, establece: \"La certificación de las y los estudiantes que desarrollan sus acciones educativas bajo la modalidad directa se realizará en función de su desarrollo personal mediante una evaluación integral\"."
+   },
+   {
+    "q": "El Artículo 31 define la Formación Superior de Maestras y Maestros. Según este artículo, ¿para qué subsistemas forma maestras y maestros esta formación?",
+    "options": [
+     "La Formación Superior forma maestras y maestros para los subsistemas de Educación Regular, Alternativa y Especial.",
+     "La Formación Superior forma maestras y maestros para los subsistemas de Educación Regular, Alternativa y Especial.",
+     "La Formación Superior forma maestras y maestros para los subsistemas de Educación Regular, Alternativa y Especial.",
+     "La Formación Superior forma maestras y maestros para los subsistemas de Educación Regular, Alternativa y Especial."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 31 establece: \"destinada a formar maestras y maestros para los subsistemas de Educación Regular, y Educación Alternativa y Especial.\""
+   },
+   {
+    "q": "El Artículo 36 regula la exclusividad de la Formación de Maestras y Maestros. Según este artículo, ¿qué instituciones son las únicas autorizadas para ofertar programas de formación de maestros?",
+    "options": [
+     "Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas autorizadas.",
+     "Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas autorizadas.",
+     "Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas autorizadas.",
+     "Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas autorizadas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 36 establece: \"Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas instituciones autorizadas para ofertar y desarrollar programas académicos de formación de maestras y maestros.\""
+   },
+   {
+    "q": "El Artículo 42 establece los objetivos de la Formación Superior Técnica y Tecnológica. Según su parágrafo 1, ¿cuál es uno de los objetivos de esta formación?",
+    "options": [
+     "Formar profesionales con capacidades productivas, investigativas y de innovación para responder a las necesidades.",
+     "Formar profesionales con capacidades productivas, investigativas y de innovación para responder a las necesidades.",
+     "Formar profesionales con capacidades productivas, investigativas y de innovación para responder a las necesidades.",
+     "Formar profesionales con capacidades productivas, investigativas y de innovación para responder a las necesidades."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 42, parágrafo 1, establece: \"Formar profesionales con capacidades productivas, investigativas y de innovación para responder a las necesidades y características socioeconómicas y culturales de las regiones y del Estado Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 44 regula el Título Profesional en la Formación Técnica y Tecnológica. Según este artículo, ¿quién emite los Títulos Profesionales con validez en todo el Estado Plurinacional?",
+    "options": [
+     "El Ministerio de Educación emite los Títulos Profesionales con validez en todo el Estado Plurinacional.",
+     "El Ministerio de Educación emite los Títulos Profesionales con validez en todo el Estado Plurinacional.",
+     "El Ministerio de Educación emite los Títulos Profesionales con validez en todo el Estado Plurinacional.",
+     "El Ministerio de Educación emite los Títulos Profesionales con validez en todo el Estado Plurinacional."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 44 establece: \"El Ministerio de Educación emitirá los Títulos Profesionales con validez en todo el Estado Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 47 define la Formación Superior Artística. Según este artículo, ¿cuál es el propósito de esta formación?",
+    "options": [
+     "Es la formación profesional destinada al desarrollo de capacidades, competencias y destrezas artísticas.",
+     "Es la formación profesional destinada al desarrollo de capacidades, competencias y destrezas artísticas.",
+     "Es la formación profesional destinada al desarrollo de capacidades, competencias y destrezas artísticas.",
+     "Es la formación profesional destinada al desarrollo de capacidades, competencias y destrezas artísticas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 47 establece: \"Es la formación profesional destinada al desarrollo de capacidades, competencias y destrezas artísticas, articulando teoría y práctica\"."
+   },
+   {
+    "q": "El Artículo 52 define la Formación Superior Universitaria. Según este artículo, ¿cuál es el espacio educativo que representa esta formación?",
+    "options": [
+     "Es el espacio educativo de la formación de profesionales, desarrollo de la investigación científica-tecnológica.",
+     "Es el espacio educativo de la formación de profesionales, desarrollo de la investigación científica-tecnológica.",
+     "Es el espacio educativo de la formación de profesionales, desarrollo de la investigación científica-tecnológica.",
+     "Es el espacio educativo de la formación de profesionales, desarrollo de la investigación científica-tecnológica."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 52 establece: \"Es el espacio educativo de la formación de profesionales, desarrollo de la investigación científica-tecnológica, de la interacción social e innovación\"."
+   },
+   {
+    "q": "El Artículo 53 establece los objetivos de la Formación Superior Universitaria. Según su parágrafo 1, ¿qué tipo de profesionales se deben formar?",
+    "options": [
+     "Formar profesionales científicos, productivos y críticos que garanticen un desarrollo humano integral.",
+     "Formar profesionales científicos, productivos y críticos que garanticen un desarrollo humano integral.",
+     "Formar profesionales científicos, productivos y críticos que garanticen un desarrollo humano integral.",
+     "Formar profesionales científicos, productivos y críticos que garanticen un desarrollo humano integral."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 53, parágrafo 1, establece: \"Formar profesionales científicos, productivos y críticos que garanticen un desarrollo humano integral\"."
+   },
+   {
+    "q": "El Artículo 57 define las Universidades Privadas. Según este artículo, ¿cómo se rigen las Universidades Privadas?",
+    "options": [
+     "Las Universidades Privadas se rigen por las políticas, planes, programas y autoridades del Sistema Educativo.",
+     "Las Universidades Privadas se rigen por las políticas, planes, programas y autoridades del Sistema Educativo.",
+     "Las Universidades Privadas se rigen por las políticas, planes, programas y autoridades del Sistema Educativo.",
+     "Las Universidades Privadas se rigen por las políticas, planes, programas y autoridades del Sistema Educativo."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 57 establece: \"se rigen por las políticas, planes, programas y autoridades del Sistema Educativo Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 59 regula el funcionamiento de las Universidades Privadas. Según su parágrafo 3, ¿las Universidades Privadas son subvencionadas por el Estado?",
+    "options": [
+     "Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional.",
+     "Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional.",
+     "Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional.",
+     "Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 59, parágrafo 3, establece: \"Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 61 regula las Universidades de Régimen Especial. Según su parágrafo 1, ¿cuáles son las Universidades de Régimen Especial?",
+    "options": [
+     "Las Universidades de Régimen Especial son la Universidad Militar y la Universidad Policial.",
+     "Las Universidades de Régimen Especial son la Universidad Militar y la Universidad Policial.",
+     "Las Universidades de Régimen Especial son la Universidad Militar y la Universidad Policial.",
+     "Las Universidades de Régimen Especial son la Universidad Militar y la Universidad Policial."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 61, parágrafo 1, establece: \"Las Universidades de Régimen Especial son: a) Universidad Militar. b) Universidad Policial.\""
+   },
+   {
+    "q": "El Artículo 62 establece los objetivos de la Universidad Militar. Según su parágrafo 1, ¿qué debe garantizar la Universidad Militar?",
+    "options": [
+     "La Universidad Militar forma profesionales para garantizar la seguridad, defensa de la soberanía y el desarrollo.",
+     "La Universidad Militar forma profesionales para garantizar la seguridad, defensa de la soberanía y el desarrollo.",
+     "La Universidad Militar forma profesionales para garantizar la seguridad, defensa de la soberanía y el desarrollo.",
+     "La Universidad Militar forma profesionales para garantizar la seguridad, defensa de la soberanía y el desarrollo."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 62, parágrafo 1, establece: \"forma profesionales para garantizar la seguridad, defensa de la soberanía y el desarrollo integral del Estado Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 63 establece los objetivos de la Universidad Policial. Según su parágrafo 2, ¿qué deben garantizar los profesionales policías formados?",
+    "options": [
+     "Los profesionales policías deben proteger, respetar y garantizar los derechos humanos.",
+     "Los profesionales policías deben proteger, respetar y garantizar los derechos humanos.",
+     "Los profesionales policías deben proteger, respetar y garantizar los derechos humanos.",
+     "Los profesionales policías deben proteger, respetar y garantizar los derechos humanos."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 63, parágrafo 2, establece: \"que protejan, respeten y garanticen los derechos humanos en cumplimiento de la Constitución Política del Estado\"."
+   },
+   {
+    "q": "El Artículo 64 regula la formación post gradual. Según este artículo, ¿cuál es la misión de la formación post gradual?",
+    "options": [
+     "La misión es la cualificación de profesionales en diferentes áreas y el desarrollo de la ciencia.",
+     "La misión es la cualificación de profesionales en diferentes áreas y el desarrollo de la ciencia.",
+     "La misión es la cualificación de profesionales en diferentes áreas y el desarrollo de la ciencia.",
+     "La misión es la cualificación de profesionales en diferentes áreas y el desarrollo de la ciencia."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 64 establece: \"tendrá como misión la cualificación de profesionales en diferentes áreas y el desarrollo de la ciencia y tecnología\"."
+   },
+   {
+    "q": "El Artículo 65 regula la exclusividad de la formación profesional. Según su parágrafo 1, ¿qué instituciones son las únicas que podrán desarrollar programas de profesionalización?",
+    "options": [
+     "Las Universidades, Escuelas Superiores e Institutos Técnicos y Tecnológicos son las únicas instituciones.",
+     "Las Universidades, Escuelas Superiores e Institutos Técnicos y Tecnológicos son las únicas instituciones.",
+     "Las Universidades, Escuelas Superiores e Institutos Técnicos y Tecnológicos son las únicas instituciones.",
+     "Las Universidades, Escuelas Superiores e Institutos Técnicos y Tecnológicos son las únicas instituciones."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 65, parágrafo 1, establece: \"Las Universidades, Escuelas Superiores e Institutos Técnicos y Tecnológicos son las únicas instituciones que podrán desarrollar programas de profesionalización\"."
+   },
+   {
+    "q": "El Artículo 66 regula las Universidades Extranjeras. Según su parágrafo 2, ¿qué deben cumplir las Universidades Extranjeras para ofertar programas en Bolivia?",
+    "options": [
+     "Deben cumplir todos los requisitos establecidos para la apertura de Universidades Privadas.",
+     "Deben cumplir todos los requisitos establecidos para la apertura de Universidades Privadas.",
+     "Deben cumplir todos los requisitos establecidos para la apertura de Universidades Privadas.",
+     "Deben cumplir todos los requisitos establecidos para la apertura de Universidades Privadas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 66, parágrafo 2, establece: \"deberán cumplir todos los requisitos establecidos para la apertura y funcionamiento de las Universidades Privadas\"."
+   },
+   {
+    "q": "El Artículo 67 regula a los profesionales en Ciencias de la Educación y Pedagogía. Según este artículo, ¿cuál es una de sus funciones?",
+    "options": [
+     "Desarrollar metodologías y técnicas de orientación educativa, psicopedagogía y educación a distancia.",
+     "Desarrollar metodologías y técnicas de orientación educativa, psicopedagogía y educación a distancia.",
+     "Desarrollar metodologías y técnicas de orientación educativa, psicopedagogía y educación a distancia.",
+     "Desarrollar metodologías y técnicas de orientación educativa, psicopedagogía y educación a distancia."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 67 establece: \"cuyas funciones son desarrollar metodologías y técnicas de orientación educativa, psicopedagogía, educación a distancia, formación pedagógica, investigación\"."
+   },
+   {
+    "q": "El Artículo 68 crea la Agencia Plurinacional de Evaluación y Acreditación. Según su parágrafo III, ¿de qué carácter es esta Agencia?",
+    "options": [
+     "La Agencia es de carácter descentralizado, conformado por un Directorio y un Equipo Técnico.",
+     "La Agencia es de carácter descentralizado, conformado por un Directorio y un Equipo Técnico.",
+     "La Agencia es de carácter descentralizado, conformado por un Directorio y un Equipo Técnico.",
+     "La Agencia es de carácter descentralizado, conformado por un Directorio y un Equipo Técnico."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 68, parágrafo III, establece: \"será de carácter descentralizado, conformado por un Directorio y un Equipo Técnico Especializado.\""
+   },
+   {
+    "q": "El Artículo 70 regula el Currículo Regionalizado. Según su parágrafo 1, ¿qué expresa el currículo regionalizado?",
+    "options": [
+     "Expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo.",
+     "Expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo.",
+     "Expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo.",
+     "Expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 70, parágrafo 1, establece: \"que expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo Plurinacional\"."
+   },
+   {
+    "q": "El Artículo 72 regula la Tuición del sistema educativo. Según su parágrafo I, ¿quién ejerce tuición sobre la administración y gestión del Sistema Educativo?",
+    "options": [
+     "El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración.",
+     "El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración.",
+     "El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración.",
+     "El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 72, parágrafo I, establece: \"El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración y gestión del Sistema Educativo Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 73 establece los principios de la administración y gestión educativa. Según su parágrafo 4, ¿qué principio se relaciona con la rendición de cuentas?",
+    "options": [
+     "El principio de transparencia y rendición de cuentas de los responsables de la administración.",
+     "El principio de transparencia y rendición de cuentas de los responsables de la administración.",
+     "El principio de transparencia y rendición de cuentas de los responsables de la administración.",
+     "El principio de transparencia y rendición de cuentas de los responsables de la administración."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 73, parágrafo 4, establece: \"Transparencia y rendición de cuentas de los responsables de la administración y gestión del Sistema Educativo Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 74 establece los objetivos de la administración y gestión del sistema educativo. Según su parágrafo 4, ¿qué deben garantizar?",
+    "options": [
+     "Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales.",
+     "Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales.",
+     "Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales.",
+     "Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 74, parágrafo 4, establece: \"Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales de acuerdo a las necesidades de cada región\"."
+   },
+   {
+    "q": "El Artículo 75 regula los mecanismos de la gestión educativa. Según este artículo, ¿qué criterios se consideran para crear estos mecanismos?",
+    "options": [
+     "Se consideran los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico.",
+     "Se consideran los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico.",
+     "Se consideran los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico.",
+     "Se consideran los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 75 establece: \"Los mecanismos de la gestión educativa se crean considerando los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico\"."
+   },
+   {
+    "q": "El Artículo 76 regula la estructura administrativa y gestión del Sistema Educativo. Según este artículo, ¿en qué niveles se organiza la administración y gestión?",
+    "options": [
+     "La administración y gestión se organiza en Nivel Central, Nivel Departamental y Nivel Autonómico.",
+     "La administración y gestión se organiza en Nivel Central, Nivel Departamental y Nivel Autonómico.",
+     "La administración y gestión se organiza en Nivel Central, Nivel Departamental y Nivel Autonómico.",
+     "La administración y gestión se organiza en Nivel Central, Nivel Departamental y Nivel Autonómico."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 76 establece: \"La administración y gestión se organiza en: 1. Nivel Central. 2. Nivel Departamental. 3. Nivel Autonómico.\""
+   },
+   {
+    "q": "El Artículo 77 describe el Nivel Central de la gestión. Según este artículo, ¿qué instancia es la máxima autoridad educativa?",
+    "options": [
+     "El Ministerio de Educación y sus Viceministerios son la máxima autoridad educativa.",
+     "El Ministerio de Educación y sus Viceministerios son la máxima autoridad educativa.",
+     "El Ministerio de Educación y sus Viceministerios son la máxima autoridad educativa.",
+     "El Ministerio de Educación y sus Viceministerios son la máxima autoridad educativa."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 77 establece: \"Ministerio de Educación y sus Viceministerios, como máxima autoridad educativa, responsable de las Políticas y Estrategias educativas\"."
+   },
+   {
+    "q": "El Artículo 79 regula la designación y funciones de los directores. Según su parágrafo 1, ¿quién designa a los Directores Departamentales?",
+    "options": [
+     "Los Directores Departamentales serán designados por el Ministerio de Educación mediante concurso.",
+     "Los Directores Departamentales serán designados por el Ministerio de Educación mediante concurso.",
+     "Los Directores Departamentales serán designados por el Ministerio de Educación mediante concurso.",
+     "Los Directores Departamentales serán designados por el Ministerio de Educación mediante concurso."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 79, parágrafo 1, establece: \"Las y los Directores y Subdirectores Departamentales serán designados por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia\"."
+   },
+   {
+    "q": "El Artículo 82 regula la Certificación de Competencias. Según este artículo, ¿qué reconoce el Estado a través de este sistema?",
+    "options": [
+     "El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos.",
+     "El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos.",
+     "El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos.",
+     "El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 82 establece: \"El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la práctica a lo largo de la vida\"."
+   },
+   {
+    "q": "El Artículo 84 define el Apoyo Técnico de Recursos y Servicios. Según este artículo, ¿cuál es su función?",
+    "options": [
+     "Son las instancias de apoyo técnico pedagógico al Sistema Educativo para la implementación del currículo.",
+     "Son las instancias de apoyo técnico pedagógico al Sistema Educativo para la implementación del currículo.",
+     "Son las instancias de apoyo técnico pedagógico al Sistema Educativo para la implementación del currículo.",
+     "Son las instancias de apoyo técnico pedagógico al Sistema Educativo para la implementación del currículo."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 84 establece: \"Son las instancias de apoyo técnico pedagógico al Sistema Educativo Plurinacional, para la adecuada implementación del currículo educativo\"."
+   },
+   {
+    "q": "El Artículo 85 establece los objetivos del apoyo técnico. Según su parágrafo 2, ¿qué busca potenciar?",
+    "options": [
+     "Potenciar la capacidad técnica del sistema educativo con personal de óptimo nivel profesional.",
+     "Potenciar la capacidad técnica del sistema educativo con personal de óptimo nivel profesional.",
+     "Potenciar la capacidad técnica del sistema educativo con personal de óptimo nivel profesional.",
+     "Potenciar la capacidad técnica del sistema educativo con personal de óptimo nivel profesional."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 85, parágrafo 2, establece: \"Potenciar la capacidad técnica del sistema educativo con personal de óptimo nivel profesional, con conocimiento y compromiso de la realidad sociocultural\"."
+   },
+   {
+    "q": "El Artículo 86 regula el ámbito de acción del Apoyo Técnico. Según este artículo, ¿cómo se define su estructura?",
+    "options": [
+     "La estructura se define de acuerdo a las necesidades del Sistema Educativo en sus diferentes modalidades.",
+     "La estructura se define de acuerdo a las necesidades del Sistema Educativo en sus diferentes modalidades.",
+     "La estructura se define de acuerdo a las necesidades del Sistema Educativo en sus diferentes modalidades.",
+     "La estructura se define de acuerdo a las necesidades del Sistema Educativo en sus diferentes modalidades."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 86 establece: \"La estructura de Apoyo Técnico de Recursos y Servicios, se definirá de acuerdo a las necesidades del Sistema Educativo Plurinacional en sus diferentes modalidades y niveles\"."
+   },
+   {
+    "q": "El Artículo 87 crea el Instituto de Investigaciones Educativas Plurinacional. Según este artículo, ¿de quién depende este Instituto?",
+    "options": [
+     "El Instituto de Investigaciones Educativas Plurinacional depende del Ministerio de Educación.",
+     "El Instituto de Investigaciones Educativas Plurinacional depende del Ministerio de Educación.",
+     "El Instituto de Investigaciones Educativas Plurinacional depende del Ministerio de Educación.",
+     "El Instituto de Investigaciones Educativas Plurinacional depende del Ministerio de Educación."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 87 establece: \"Se crea el Instituto de Investigaciones Educativas Plurinacional dependiente del Ministerio de Educación\"."
+   },
+   {
+    "q": "El Artículo 89 regula el Financiamiento de la Educación. Según este artículo, ¿quién financia el Sistema Educativo Plurinacional?",
+    "options": [
+     "El Sistema Educativo es financiado por el Estado a través del Tesoro General y las entidades territoriales.",
+     "El Sistema Educativo es financiado por el Estado a través del Tesoro General y las entidades territoriales.",
+     "El Sistema Educativo es financiado por el Estado a través del Tesoro General y las entidades territoriales.",
+     "El Sistema Educativo es financiado por el Estado a través del Tesoro General y las entidades territoriales."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 89 establece: \"El Sistema Educativo Plurinacional será financiado por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de las entidades territoriales autónomas\"."
+   },
+   {
+    "q": "El Artículo 90 define la Participación Social Comunitaria. Según este artículo, ¿quiénes participan en esta instancia?",
+    "options": [
+     "Participan los actores sociales, comunitarios, madres y padres de familia con representación y legitimidad.",
+     "Participan los actores sociales, comunitarios, madres y padres de familia con representación y legitimidad.",
+     "Participan los actores sociales, comunitarios, madres y padres de familia con representación y legitimidad.",
+     "Participan los actores sociales, comunitarios, madres y padres de familia con representación y legitimidad."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 90 establece: \"Es la instancia de participación de los actores sociales, actores comunitarios, madres y padres de familia con representación y legitimidad\"."
+   },
+   {
+    "q": "El Artículo 91 establece los objetivos de la Participación Social Comunitaria. Según su parágrafo 7, ¿a qué contribuye esta participación?",
+    "options": [
+     "Contribuye al logro de la transparencia administrativa a través de un control social.",
+     "Contribuye al logro de la transparencia administrativa a través de un control social.",
+     "Contribuye al logro de la transparencia administrativa a través de un control social.",
+     "Contribuye al logro de la transparencia administrativa a través de un control social."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 91, parágrafo 7, establece: \"Contribuir al logro de la transparencia administrativa a través de un control social para optimizar el funcionamiento del Sistema Educativo Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 92 establece las instancias de Participación Social Comunitaria. Según su parágrafo 2, ¿qué función cumple el Consejo Educativo Plurinacional?",
+    "options": [
+     "Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento.",
+     "Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento.",
+     "Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento.",
+     "Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 92, parágrafo 2, establece: \"Consejo Educativo Plurinacional: Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento de las conclusiones del Congreso Plurinacional de Educación.\""
+   },
+   {
+    "q": "La Disposición Transitoria Segunda regula los Institutos, Academias y Escuelas de Bellas Artes. Según esta disposición, ¿de quién pasan a depender estas instituciones?",
+    "options": [
+     "Pasan a depender del Ministerio de Educación según reglamento específico.",
+     "Pasan a depender del Ministerio de Educación según reglamento específico.",
+     "Pasan a depender del Ministerio de Educación según reglamento específico.",
+     "Pasan a depender del Ministerio de Educación según reglamento específico."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Segunda establece: \"Los Institutos, Academias y Escuelas de Bellas Artes de carácter fiscal existentes en el país pasan a depender del Ministerio de Educación según reglamento específico.\""
+   },
+   {
+    "q": "La Disposición Transitoria Tercera regula los Institutos Técnicos y Tecnológicos. Según esta disposición, ¿qué deben hacer estas instituciones?",
+    "options": [
+     "Deberán adecuarse a las disposiciones de la presente ley.",
+     "Deberán adecuarse a las disposiciones de la presente ley.",
+     "Deberán adecuarse a las disposiciones de la presente ley.",
+     "Deberán adecuarse a las disposiciones de la presente ley."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Tercera establece: \"Las instituciones de formación técnica y tecnológica, de carácter fiscal, privado y de convenio deberán adecuarse a las disposiciones de la presente ley.\""
+   },
+   {
+    "q": "La Disposición Transitoria Quinta regula la formación complementaria de maestras y maestros. Según esta disposición, ¿qué implementará el Ministerio de Educación?",
+    "options": [
+     "Implementará programas de formación complementaria para maestras y maestros en ejercicio.",
+     "Implementará programas de formación complementaria para maestras y maestros en ejercicio.",
+     "Implementará programas de formación complementaria para maestras y maestros en ejercicio.",
+     "Implementará programas de formación complementaria para maestras y maestros en ejercicio."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Quinta establece: \"El Ministerio de Educación implementará programas de formación complementaria, para maestras y maestros en ejercicio y egresados de los Institutos Normales Superiores\"."
+   },
+   {
+    "q": "La Disposición Transitoria Sexta regula la Comisión Nacional de Acreditación de Carreras Universitarias. Según esta disposición, ¿qué funciones cumplirá esta Comisión?",
+    "options": [
+     "Cumplirá las funciones de Agencia Plurinacional de Evaluación y Acreditación de Carreras Universitarias.",
+     "Cumplirá las funciones de Agencia Plurinacional de Evaluación y Acreditación de Carreras Universitarias.",
+     "Cumplirá las funciones de Agencia Plurinacional de Evaluación y Acreditación de Carreras Universitarias.",
+     "Cumplirá las funciones de Agencia Plurinacional de Evaluación y Acreditación de Carreras Universitarias."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Sexta establece: \"La Comisión Nacional de Acreditación de Carreras Universitarias en actual funcionamiento, cumplirá las funciones de Agencia Plurinacional de Evaluación y Acreditación de Carreras Universitarias\"."
+   },
+   {
+    "q": "La Disposición Transitoria Novena regula los Servicios Departamentales de Educación. Según su literal",
+    "options": [
+     ", ¿qué deben hacer estos Servicios? Respuesta a) Deberán adecuar y transferir su estructura institucional, administrativa, presupuestaria y de personal.",
+     "Deberán adecuar y transferir su estructura institucional, administrativa, presupuestaria y de personal.",
+     "Deberán adecuar y transferir su estructura institucional, administrativa, presupuestaria y de personal.",
+     "Deberán adecuar y transferir su estructura institucional, administrativa, presupuestaria y de personal."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Novena, literal a), establece: \"Los Servicios Departamentales de Educación deberán adecuar y transferir su estructura institucional, administrativa, presupuestaria, patrimonial y de personal a las Direcciones Departamentales de Educación\"."
+   },
+   {
+    "q": "La Disposición Transitoria Décima regula la institucionalización. Según esta disposición, ¿qué deben hacer todos los cargos y autoridades?",
+    "options": [
+     "Deberán adecuarse a las estructuras de administración y gestión establecidas en la presente ley.",
+     "Deberán adecuarse a las estructuras de administración y gestión establecidas en la presente ley.",
+     "Deberán adecuarse a las estructuras de administración y gestión establecidas en la presente ley.",
+     "Deberán adecuarse a las estructuras de administración y gestión establecidas en la presente ley."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Décima establece: \"Todos los cargos y autoridades de los subsistemas y niveles del Sistema Educativo Plurinacional deberán adecuarse a las estructuras de administración y gestión establecidas en la presente ley\"."
+   },
+   {
+    "q": "La Disposición Transitoria Décima Primera regula las escuelas de frontera. Según esta disposición, ¿qué carácter tendrán estas escuelas?",
+    "options": [
+     "Las escuelas de frontera tendrán carácter integral y recibirán atención en personal, infraestructura y equipamiento.",
+     "Las escuelas de frontera tendrán carácter integral y recibirán atención en personal, infraestructura y equipamiento.",
+     "Las escuelas de frontera tendrán carácter integral y recibirán atención en personal, infraestructura y equipamiento.",
+     "Las escuelas de frontera tendrán carácter integral y recibirán atención en personal, infraestructura y equipamiento."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Décima Primera establece: \"Las escuelas de frontera son prioridad del Estado, tendrán carácter integral y recibirán atención en personal, infraestructura y equipamiento\"."
+   },
+   {
+    "q": "La Disposición Transitoria Décima Segunda regula los Planes y Programas intersectoriales. Según esta disposición, ¿qué constituyen prioridades?",
+    "options": [
+     "Constituyen prioridades: Educación sin violencia, educación en derechos humanos y educación en seguridad ciudadana.",
+     "Constituyen prioridades: Educación sin violencia, educación en derechos humanos y educación en seguridad ciudadana.",
+     "Constituyen prioridades: Educación sin violencia, educación en derechos humanos y educación en seguridad ciudadana.",
+     "Constituyen prioridades: Educación sin violencia, educación en derechos humanos y educación en seguridad ciudadana."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Transitoria Décima Segunda establece: \"Constituyen prioridades: Educación sin violencia, educación en derechos humanos, educación en seguridad ciudadana, educación en derechos de la Madre Tierra, educación contra el racismo, educación en valores y ética.\""
+   },
+   {
+    "q": "La Disposición Final Primera regula la vigencia de la Ley. Según esta disposición, ¿a partir de qué fecha entrará en vigencia la Ley?",
+    "options": [
+     "La presente Ley entrará en vigencia a partir de la fecha de su promulgación y publicación.",
+     "La presente Ley entrará en vigencia a partir de la fecha de su promulgación y publicación.",
+     "La presente Ley entrará en vigencia a partir de la fecha de su promulgación y publicación.",
+     "La presente Ley entrará en vigencia a partir de la fecha de su promulgación y publicación."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Final Primera establece: \"La presente Ley entrará en vigencia a partir de la fecha de su promulgación y publicación.\""
+   },
+   {
+    "q": "La Disposición Final Segunda regula la aplicación remunerativa del escalafón. Según esta disposición, ¿a qué marco se ajustarán los aspectos salariales?",
+    "options": [
+     "Se ajustarán al marco de la política fiscal del Estado Plurinacional de Bolivia.",
+     "Se ajustarán al marco de la política fiscal del Estado Plurinacional de Bolivia.",
+     "Se ajustarán al marco de la política fiscal del Estado Plurinacional de Bolivia.",
+     "Se ajustarán al marco de la política fiscal del Estado Plurinacional de Bolivia."
+    ],
+    "answer": 1,
+    "feedback": "La Disposición Final Segunda establece: \"La aplicación remunerativa del escalafón nacional y los aspectos salariales del sector de la educación, se ajustarán al marco de la política fiscal del Estado Plurinacional de Bolivia.\""
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 2, regula las unidades educativas fiscales. Según este parágrafo, ¿qué se consolida y fortalece?",
+    "options": [
+     "Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas.",
+     "Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas.",
+     "Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas.",
+     "Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 2, establece: \"Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas, sostenidas por el Estado Plurinacional\"."
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 3, regula las unidades educativas privadas. Según este parágrafo, ¿qué garantiza el Estado?",
+    "options": [
+     "El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de requisitos.",
+     "El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de requisitos.",
+     "El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de requisitos.",
+     "El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de requisitos."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 3, establece: \"El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de los requisitos establecidos en reglamentación específica aprobada por el Ministerio de Educación.\""
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 4, regula las unidades educativas de convenio. Según este parágrafo, ¿con qué fines funcionan estas unidades?",
+    "options": [
+     "Funcionan con fines de servicio social, con acceso libre y sin fines de lucro.",
+     "Funcionan con fines de servicio social, con acceso libre y sin fines de lucro.",
+     "Funcionan con fines de servicio social, con acceso libre y sin fines de lucro.",
+     "Funcionan con fines de servicio social, con acceso libre y sin fines de lucro."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 4, establece: \"Se reconoce y respeta el funcionamiento de unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro\"."
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 6, regula la inamovilidad funcionaria. Según este parágrafo, ¿qué se garantiza?",
+    "options": [
+     "Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio.",
+     "Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio.",
+     "Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio.",
+     "Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 6, establece: \"Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio del magisterio nacional.\""
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 7, regula el escalafón nacional del magisterio. Según este parágrafo, ¿qué garantiza este reglamento?",
+    "options": [
+     "Garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional.",
+     "Garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional.",
+     "Garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional.",
+     "Garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 7, establece: \"El reglamento del escalafón nacional del servicio de educación, es el instrumento normativo de vigencia plena que garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 8, regula la sindicalización. Según este parágrafo, ¿qué reconoce el Estado al magisterio?",
+    "options": [
+     "El Estado reconoce al magisterio el derecho a la sindicalización como medio de defensa profesional.",
+     "El Estado reconoce al magisterio el derecho a la sindicalización como medio de defensa profesional.",
+     "El Estado reconoce al magisterio el derecho a la sindicalización como medio de defensa profesional.",
+     "El Estado reconoce al magisterio el derecho a la sindicalización como medio de defensa profesional."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 8, establece: \"El Estado reconoce al magisterio el derecho a la sindicalización como medio de defensa profesional, se ocupa de su dignificación social y económica\"."
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 9, regula la organización estudiantil. Según este parágrafo, ¿a qué estudiantes se exceptúa de este derecho?",
+    "options": [
+     "Se exceptúa a los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial.",
+     "Se exceptúa a los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial.",
+     "Se exceptúa a los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial.",
+     "Se exceptúa a los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 9, establece: \"Se exceptúa de este derecho a los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial y normativa específica.\""
+   },
+   {
+    "q": "El Artículo 2, en su parágrafo 10, regula la promoción del deporte. Según este parágrafo, ¿qué deberá promover y desarrollar el Estado?",
+    "options": [
+     "El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva.",
+     "El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva.",
+     "El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva.",
+     "El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 2, parágrafo 10, establece: \"El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva en toda la estructura del Sistema Educativo Plurinacional\"."
+   },
+   {
+    "q": "El Artículo 3, en su parágrafo 2, establece una base de la educación. Según este parágrafo, ¿cómo es la educación en cuanto a su carácter comunitario?",
+    "options": [
+     "Es comunitaria, democrática, participativa y de consensos en la toma de decisiones sobre políticas educativas.",
+     "Es comunitaria, democrática, participativa y de consensos en la toma de decisiones sobre políticas educativas.",
+     "Es comunitaria, democrática, participativa y de consensos en la toma de decisiones sobre políticas educativas.",
+     "Es comunitaria, democrática, participativa y de consensos en la toma de decisiones sobre políticas educativas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 3, parágrafo 2, establece: \"Es comunitaria, democrática, participativa y de consensos en la toma de decisiones sobre políticas educativas, reafirmando la unidad en la diversidad.\""
+   },
+   {
+    "q": "El Artículo 3, en su parágrafo 3, establece una base de la educación. Según este parágrafo, ¿por qué la educación es universal?",
+    "options": [
+     "Es universal porque atiende a todas y todos los habitantes del Estado Plurinacional y a los bolivianos en el exterior.",
+     "Es universal porque atiende a todas y todos los habitantes del Estado Plurinacional y a los bolivianos en el exterior.",
+     "Es universal porque atiende a todas y todos los habitantes del Estado Plurinacional y a los bolivianos en el exterior.",
+     "Es universal porque atiende a todas y todos los habitantes del Estado Plurinacional y a los bolivianos en el exterior."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 3, parágrafo 3, establece: \"Es universal, porque atiende a todas y todos los habitantes del Estado Plurinacional, así como a las bolivianas y los bolivianos que viven en el exterior\"."
+   },
+   {
+    "q": "El Artículo 3, en su parágrafo 7, establece una base de la educación. Según este parágrafo, ¿qué ofrece la educación inclusiva?",
+    "options": [
+     "Ofrece una educación oportuna y pertinente a las necesidades, expectativas e intereses de todas y todos.",
+     "Ofrece una educación oportuna y pertinente a las necesidades, expectativas e intereses de todas y todos.",
+     "Ofrece una educación oportuna y pertinente a las necesidades, expectativas e intereses de todas y todos.",
+     "Ofrece una educación oportuna y pertinente a las necesidades, expectativas e intereses de todas y todos."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 3, parágrafo 7, establece: \"Es inclusiva, asumiendo la diversidad de los grupos poblacionales y personas que habitan el país, ofrece una educación oportuna y pertinente a las necesidades, expectativas e intereses de todas y todos los habitantes\"."
+   },
+   {
+    "q": "El Artículo 3, en su parágrafo 9, establece una base de la educación. Según este parágrafo, ¿hacia dónde está orientada la educación productiva y territorial?",
+    "options": [
+     "Está orientada a la producción intelectual y material, al trabajo creador y a la relación armónica con la Madre Tierra.",
+     "Está orientada a la producción intelectual y material, al trabajo creador y a la relación armónica con la Madre Tierra.",
+     "Está orientada a la producción intelectual y material, al trabajo creador y a la relación armónica con la Madre Tierra.",
+     "Está orientada a la producción intelectual y material, al trabajo creador y a la relación armónica con la Madre Tierra."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 3, parágrafo 9, establece: \"Es productiva y territorial, orientada a la producción intelectual y material, al trabajo creador y a la relación armónica de los sistemas de vida y las comunidades humanas en la Madre Tierra\"."
+   },
+   {
+    "q": "El Artículo 4, en su parágrafo 2, establece un fin de la educación. Según este parágrafo, ¿cómo se debe formar a mujeres y hombres?",
+    "options": [
+     "Se debe formar integral y equitativamente a mujeres y hombres, en función de sus necesidades y expectativas.",
+     "Se debe formar integral y equitativamente a mujeres y hombres, en función de sus necesidades y expectativas.",
+     "Se debe formar integral y equitativamente a mujeres y hombres, en función de sus necesidades y expectativas.",
+     "Se debe formar integral y equitativamente a mujeres y hombres, en función de sus necesidades y expectativas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 4, parágrafo 2, establece: \"Formar integral y equitativamente a mujeres y hombres, en función de sus necesidades, particularidades y expectativas\"."
+   },
+   {
+    "q": "El Artículo 4, en su parágrafo 5, establece un fin de la educación. Según este parágrafo, ¿a qué contribuye la educación?",
+    "options": [
+     "Contribuye a la convivencia armónica y equilibrada del ser humano con la Madre Tierra.",
+     "Contribuye a la convivencia armónica y equilibrada del ser humano con la Madre Tierra.",
+     "Contribuye a la convivencia armónica y equilibrada del ser humano con la Madre Tierra.",
+     "Contribuye a la convivencia armónica y equilibrada del ser humano con la Madre Tierra."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 4, parágrafo 5, establece: \"Contribuir a la convivencia armónica y equilibrada del ser humano con la Madre Tierra, frente a toda acción depredadora, respetando y recuperando las diversas cosmovisiones y culturas.\""
+   },
+   {
+    "q": "El Artículo 5, en su parágrafo 2, establece un objetivo de la educación. Según este parágrafo, ¿qué tipo de formación se debe desarrollar?",
+    "options": [
+     "Se debe desarrollar una formación científica, técnica, tecnológica y productiva a partir de saberes propios.",
+     "Se debe desarrollar una formación científica, técnica, tecnológica y productiva a partir de saberes propios.",
+     "Se debe desarrollar una formación científica, técnica, tecnológica y productiva a partir de saberes propios.",
+     "Se debe desarrollar una formación científica, técnica, tecnológica y productiva a partir de saberes propios."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 5, parágrafo 2, establece: \"Desarrollar una formación científica, técnica, tecnológica y productiva, a partir de saberes y conocimientos propios\"."
+   },
+   {
+    "q": "El Artículo 5, en su parágrafo 5, establece un objetivo de la educación. Según este parágrafo, ¿con la participación de quiénes se consolida el Sistema Educativo?",
+    "options": [
+     "Se consolida con la directa participación de madres y padres de familia, organizaciones sociales y sindicales.",
+     "Se consolida con la directa participación de madres y padres de familia, organizaciones sociales y sindicales.",
+     "Se consolida con la directa participación de madres y padres de familia, organizaciones sociales y sindicales.",
+     "Se consolida con la directa participación de madres y padres de familia, organizaciones sociales y sindicales."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 5, parágrafo 5, establece: \"Consolidar el Sistema Educativo Plurinacional con la directa participación de madres y padres de familia, de las organizaciones sociales, sindicales y populares\"."
+   },
+   {
+    "q": "El Artículo 5, en su parágrafo 11, establece un objetivo de la educación. Según este parágrafo, ¿qué se estimulará con becas?",
+    "options": [
+     "Se estimulará con becas a las y los estudiantes de excelente aprovechamiento en todos los niveles.",
+     "Se estimulará con becas a las y los estudiantes de excelente aprovechamiento en todos los niveles.",
+     "Se estimulará con becas a las y los estudiantes de excelente aprovechamiento en todos los niveles.",
+     "Se estimulará con becas a las y los estudiantes de excelente aprovechamiento en todos los niveles."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 5, parágrafo 11, establece: \"se estimulará con becas a las y los estudiantes de excelente aprovechamiento en todos los niveles del Sistema Educativo Plurinacional.\""
+   },
+   {
+    "q": "El Artículo 6, en su parágrafo 2, define la interculturalidad. Según este parágrafo, ¿qué fortalece la interculturalidad?",
+    "options": [
+     "Fortalece la identidad propia y la interacción en igualdad de condiciones entre todas las culturas.",
+     "Fortalece la identidad propia y la interacción en igualdad de condiciones entre todas las culturas.",
+     "Fortalece la identidad propia y la interacción en igualdad de condiciones entre todas las culturas.",
+     "Fortalece la identidad propia y la interacción en igualdad de condiciones entre todas las culturas."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 6, parágrafo 2, establece: \"El desarrollo de la interrelación e interacción de conocimientos, saberes, ciencia y tecnología propios de cada cultura con otras culturas, que fortalece la identidad propia\"."
+   },
+   {
+    "q": "El Artículo 7, en su parágrafo 1, establece un principio de uso de idiomas. Según este parágrafo, ¿qué lengua se utiliza en poblaciones monolingües de predominio de lengua originaria?",
+    "options": [
+     "Se utiliza la lengua originaria como primera lengua y el castellano como segunda lengua.",
+     "Se utiliza la lengua originaria como primera lengua y el castellano como segunda lengua.",
+     "Se utiliza la lengua originaria como primera lengua y el castellano como segunda lengua.",
+     "Se utiliza la lengua originaria como primera lengua y el castellano como segunda lengua."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 7, parágrafo 1, establece: \"En poblaciones o comunidades monolingües y de predominio de la lengua originaria, la lengua originaria como primera lengua y el castellano como segunda lengua.\""
+   },
+   {
+    "q": "El Artículo 7, en su parágrafo 3, establece un principio de uso de idiomas. Según este parágrafo, ¿a qué criterios se sujeta la elección de la lengua originaria en comunidades plurilingües?",
+    "options": [
+     "Se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios.",
+     "Se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios.",
+     "Se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios.",
+     "Se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 7, parágrafo 3, establece: \"En las comunidades o regiones trilingües o plurilingües, la elección de la lengua originaria, se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios\"."
+   },
+   {
+    "q": "El Artículo 7, en su parágrafo 5, establece un principio de uso de idiomas. Según este parágrafo, ¿cuándo se inicia la enseñanza de lengua extranjera?",
+    "options": [
      "Se inicia en forma gradual y obligatoria desde los primeros años de escolaridad.",
-     "Se inicia de forma optativa y voluntaria desde los primeros años de escolaridad."
+     "Se inicia en forma gradual y obligatoria desde los primeros años de escolaridad.",
+     "Se inicia en forma gradual y obligatoria desde los primeros años de escolaridad.",
+     "Se inicia en forma gradual y obligatoria desde los primeros años de escolaridad."
     ],
-    "answer": 2,
-    "feedback": "El Artículo 7.5 de la Ley 070 dicta: \"Enseñanza de lengua extranjera. La enseñanza de la lengua extranjera se inicia en forma gradual y obligatoria desde los primeros años de escolaridad...\""
+    "answer": 1,
+    "feedback": "El Artículo 7, parágrafo 5, establece: \"La enseñanza de la lengua extranjera se inicia en forma gradual y obligatoria desde los primeros años de escolaridad\"."
    },
    {
-    "q": "De acuerdo con el Artículo 12 de la Ley N° 070, ¿de quién es la responsabilidad de la Educación Inicial en Familia Comunitaria no escolarizada?",
+    "q": "El Artículo 7, en su parágrafo 6, establece un principio de uso de idiomas. Según este parágrafo, ¿qué es un derecho de las y los estudiantes?",
     "options": [
-     "Exclusiva del Estado a través de los Centros de Salud.",
-     "Exclusiva de la familia y la comunidad, sin intervención estatal.",
-     "De responsabilidad compartida entre el Estado y las ONGs.",
-     "De responsabilidad compartida entre la familia, la comunidad y el Estado."
+     "La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran.",
+     "La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran.",
+     "La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran.",
+     "La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran."
     ],
-    "answer": 3,
-    "feedback": "El Artículo 12.1 de la Ley 070 establece: \"Es de responsabilidad compartida entre la familia, la comunidad y el Estado, orientada a recuperar, fortalecer y promover la identidad cultural del entorno de la niña y el niño...\""
+    "answer": 1,
+    "feedback": "El Artículo 7, parágrafo 6, establece: \"La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran en el sistema educativo.\""
    },
    {
-    "q": "Según el Artículo 27 de la Ley N° 070, ¿en qué consiste la modalidad indirecta de la Educación Especial?",
+    "q": "El Artículo 9 define la Educación Regular. Según este artículo, ¿desde qué nivel hasta qué nivel abarca la Educación Regular?",
     "options": [
-     "En la atención exclusiva en centros especializados para personas con discapacidad severa.",
-     "En la atención domiciliaria para estudiantes que no pueden asistir a la escuela.",
-     "A través de la inclusión de las personas con discapacidad, dificultades en el aprendizaje y talento extraordinario en el Sistema Educativo Plurinacional.",
-     "En la educación a distancia mediante plataformas virtuales para estudiantes con discapacidad."
+     "Abarca desde la Educación Inicial en Familia Comunitaria hasta el bachillerato.",
+     "Abarca desde la Educación Inicial en Familia Comunitaria hasta el bachillerato.",
+     "Abarca desde la Educación Inicial en Familia Comunitaria hasta el bachillerato.",
+     "Abarca desde la Educación Inicial en Familia Comunitaria hasta el bachillerato."
     ],
-    "answer": 2,
-    "feedback": "El Artículo 27.1.2 de la Ley 070 dicta: \"Modalidad indirecta, a través de la inclusión de las personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario en el Sistema Educativo Plurinacional...\""
+    "answer": 1,
+    "feedback": "El Artículo 9 establece: \"Es la educación sistemática, normada, obligatoria y procesual que se brinda a todas las niñas, niños, adolescentes y jóvenes, desde la Educación Inicial en Familia Comunitaria hasta el bachillerato\"."
    },
    {
-    "q": "Conforme al Artículo 35 de la Ley N° 070, ¿quiénes deben ser los Directores Generales de las Escuelas Superiores de Formación de Maestros?",
+    "q": "El Artículo 10, en su parágrafo 1, establece un objetivo de la Educación Regular. Según este parágrafo, ¿cómo se debe formar integralmente a los estudiantes?",
     "options": [
-     "Profesionales con grado superior al que otorgan las Escuelas.",
-     "Profesionales con grado académico igual al que otorgan las Escuelas.",
-     "Profesionales con grado académico de Técnico Superior.",
-     "Profesionales con grado académico de Maestría o Doctorado exclusivamente."
+     "Se debe formar articulando la educación científica humanística y técnica-tecnológica con la producción.",
+     "Se debe formar articulando la educación científica humanística y técnica-tecnológica con la producción.",
+     "Se debe formar articulando la educación científica humanística y técnica-tecnológica con la producción.",
+     "Se debe formar articulando la educación científica humanística y técnica-tecnológica con la producción."
     ],
-    "answer": 0,
-    "feedback": "El Artículo 35.V de la Ley 070 establece: \"...se realizará a través de los Directores Generales quienes deberán ser profesionales con grado superior al que otorgan las Escuelas.\""
+    "answer": 1,
+    "feedback": "El Artículo 10, parágrafo 1, establece: \"Formar integralmente a las y los estudiantes, articulando la educación científica humanística y técnica-tecnológica con la producción\"."
+   },
+   {
+    "q": "El Artículo 11 establece la estructura del Subsistema de Educación Regular. Según este artículo, ¿cuáles son los niveles que comprende?",
+    "options": [
+     "Comprende la Educación Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva.",
+     "Comprende la Educación Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva.",
+     "Comprende la Educación Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva.",
+     "Comprende la Educación Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 11 establece: \"El Subsistema de Educación Regular comprende: a) Educación Inicial en Familia Comunitaria. b) Educación Primaria Comunitaria Vocacional. c) Educación Secundaria Comunitaria Productiva.\""
+   },
+   {
+    "q": "El Artículo 18 regula el reconocimiento de saberes, conocimientos y experiencias. Según este artículo, ¿qué será reconocido y homologado?",
+    "options": [
+     "Serán reconocidos y homologados los saberes, conocimientos y experiencias adquiridos en la práctica cotidiana.",
+     "Serán reconocidos y homologados los saberes, conocimientos y experiencias adquiridos en la práctica cotidiana.",
+     "Serán reconocidos y homologados los saberes, conocimientos y experiencias adquiridos en la práctica cotidiana.",
+     "Serán reconocidos y homologados los saberes, conocimientos y experiencias adquiridos en la práctica cotidiana."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 18 establece: \"Los saberes, conocimientos y experiencias de las personas adquiridos en su práctica cotidiana y comunitaria, serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial.\""
+   },
+   {
+    "q": "El Artículo 20 regula los Centros de Capacitación Técnica. Según este artículo, ¿de qué subsistema dependen estos centros?",
+    "options": [
+     "Dependen del Subsistema de Educación Alternativa y Especial.",
+     "Dependen del Subsistema de Educación Alternativa y Especial.",
+     "Dependen del Subsistema de Educación Alternativa y Especial.",
+     "Dependen del Subsistema de Educación Alternativa y Especial."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 20 establece: \"Los Centros de Capacitación Técnica son instituciones educativas que desarrollan programas de corta duración, dependen del Subsistema de Educación Alternativa y Especial.\""
+   },
+   {
+    "q": "El Artículo 21 regula la Educación Alternativa. Según su parágrafo I, ¿a quiénes está destinada esta educación?",
+    "options": [
+     "Está destinada a jóvenes y adultos que requieren continuar sus estudios.",
+     "Está destinada a jóvenes y adultos que requieren continuar sus estudios.",
+     "Está destinada a jóvenes y adultos que requieren continuar sus estudios.",
+     "Está destinada a jóvenes y adultos que requieren continuar sus estudios."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 21, parágrafo I, establece: \"Comprende las acciones educativas destinadas a jóvenes y adultos que requieren continuar sus estudios\"."
+   },
+   {
+    "q": "El Artículo 22 establece la estructura de la Educación Alternativa. Según este artículo, ¿cuáles son las áreas de la Educación Alternativa?",
+    "options": [
+     "Las áreas son Educación de Personas Jóvenes y Adultas y Educación Permanente.",
+     "Las áreas son Educación de Personas Jóvenes y Adultas y Educación Permanente.",
+     "Las áreas son Educación de Personas Jóvenes y Adultas y Educación Permanente.",
+     "Las áreas son Educación de Personas Jóvenes y Adultas y Educación Permanente."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 22 establece: \"Son áreas de la Educación Alternativa: 1. Educación de Personas Jóvenes y Adultas. 2. Educación Permanente.\""
+   },
+   {
+    "q": "El Artículo 24 regula la Educación Permanente, no escolarizada. Según su parágrafo 1, ¿a quién está destinada esta educación?",
+    "options": [
+     "Está destinada a toda la población y ofrece procesos formativos no escolarizados.",
+     "Está destinada a toda la población y ofrece procesos formativos no escolarizados.",
+     "Está destinada a toda la población y ofrece procesos formativos no escolarizados.",
+     "Está destinada a toda la población y ofrece procesos formativos no escolarizados."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 24, parágrafo 1, establece: \"La Educación Permanente está destinada a toda la población y ofrece procesos formativos no escolarizados que respondan a necesidades, expectativas e intereses de las organizaciones, comunidades, familias y personas\"."
+   },
+   {
+    "q": "El Artículo 25 regula la Educación Especial. Según su parágrafo I, ¿a quiénes comprende esta educación?",
+    "options": [
+     "Comprende a personas con discapacidad, con dificultades en el aprendizaje y con talento extraordinario.",
+     "Comprende a personas con discapacidad, con dificultades en el aprendizaje y con talento extraordinario.",
+     "Comprende a personas con discapacidad, con dificultades en el aprendizaje y con talento extraordinario.",
+     "Comprende a personas con discapacidad, con dificultades en el aprendizaje y con talento extraordinario."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 25, parágrafo I, establece: \"Comprende las acciones destinadas a promover y consolidar la educación inclusiva para personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario\"."
+   },
+   {
+    "q": "El Artículo 28 define la Educación Superior de Formación Profesional. Según este artículo, ¿qué tipo de espacio educativo representa?",
+    "options": [
+     "Es el espacio educativo de formación profesional, de recuperación, generación y recreación de conocimientos.",
+     "Es el espacio educativo de formación profesional, de recuperación, generación y recreación de conocimientos.",
+     "Es el espacio educativo de formación profesional, de recuperación, generación y recreación de conocimientos.",
+     "Es el espacio educativo de formación profesional, de recuperación, generación y recreación de conocimientos."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 28 establece: \"Es el espacio educativo de formación profesional, de recuperación, generación y recreación de conocimientos y saberes, expresada en el desarrollo de la ciencia, la tecnología, la investigación y la innovación\"."
+   },
+   {
+    "q": "El Artículo 30 establece la estructura de la Educación Superior de Formación Profesional. Según este artículo, ¿cuáles son las áreas que comprende?",
+    "options": [
+     "Comprende la Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística y Formación Universitaria.",
+     "Comprende la Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística y Formación Universitaria.",
+     "Comprende la Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística y Formación Universitaria.",
+     "Comprende la Formación de Maestras y Maestros, Formación Técnica y Tecnológica, Formación Artística y Formación Universitaria."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 30 establece: \"La Educación Superior de Formación Profesional comprende: a) Formación de Maestras y Maestros. b) Formación Técnica y Tecnológica. c) Formación Artística. d) Formación Universitaria.\""
+   },
+   {
+    "q": "El Artículo 33 establece los objetivos de la Formación Superior de Maestras y Maestros. Según su parágrafo 1, ¿qué tipo de profesionales se deben formar?",
+    "options": [
+     "Se deben formar profesionales críticos, reflexivos, autocríticos, propositivos, innovadores e investigadores.",
+     "Se deben formar profesionales críticos, reflexivos, autocríticos, propositivos, innovadores e investigadores.",
+     "Se deben formar profesionales críticos, reflexivos, autocríticos, propositivos, innovadores e investigadores.",
+     "Se deben formar profesionales críticos, reflexivos, autocríticos, propositivos, innovadores e investigadores."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 33, parágrafo 1, establece: \"Formar profesionales críticos, reflexivos, autocríticos, propositivos, innovadores, investigadores; comprometidos con la democracia, las transformaciones sociales, la inclusión plena de todas las bolivianas y los bolivianos.\""
+   },
+   {
+    "q": "El Artículo 34 establece la estructura de la Formación de Maestras y Maestros. Según este artículo, ¿cuáles son los componentes de esta estructura?",
+    "options": [
+     "Comprende la Formación Inicial, la Formación Post gradual y la Formación Continua de maestras y maestros.",
+     "Comprende la Formación Inicial, la Formación Post gradual y la Formación Continua de maestras y maestros.",
+     "Comprende la Formación Inicial, la Formación Post gradual y la Formación Continua de maestras y maestros.",
+     "Comprende la Formación Inicial, la Formación Post gradual y la Formación Continua de maestras y maestros."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 34 establece: \"Estructura de la Formación de Maestras y Maestros: 1. Formación Inicial de maestras y maestros. 2. Formación Post gradual para maestras y maestros. 3. Formación Continua de maestras y maestros.\""
+   },
+   {
+    "q": "El Artículo 37 regula la inserción laboral de los egresados. Según este artículo, ¿quién garantiza la inserción laboral de los egresados de las Escuelas Superiores?",
+    "options": [
+     "La inserción laboral está garantizada por el Estado Plurinacional de acuerdo a las necesidades de docencia.",
+     "La inserción laboral está garantizada por el Estado Plurinacional de acuerdo a las necesidades de docencia.",
+     "La inserción laboral está garantizada por el Estado Plurinacional de acuerdo a las necesidades de docencia.",
+     "La inserción laboral está garantizada por el Estado Plurinacional de acuerdo a las necesidades de docencia."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 37 establece: \"La inserción laboral de las y los egresados de las Escuelas Superiores de Formación de Maestras y Maestros está garantizada por el Estado Plurinacional, de acuerdo a las necesidades de docencia del Sistema Educativo Plurinacional\"."
+   },
+   {
+    "q": "El Artículo 38 regula el Título Profesional de Maestro. Según este artículo, ¿qué título otorga el Ministerio de Educación y con qué grado?",
+    "options": [
+     "El Ministerio de Educación otorga el Título de Maestro con grado de Licenciatura.",
+     "El Ministerio de Educación otorga el Título de Maestro con grado de Licenciatura.",
+     "El Ministerio de Educación otorga el Título de Maestro con grado de Licenciatura.",
+     "El Ministerio de Educación otorga el Título de Maestro con grado de Licenciatura."
+    ],
+    "answer": 1,
+    "feedback": "El Artículo 38 establece: \"El Ministerio de Educación otorgará el Título de Maestro con grado de Licenciatura y su respectivo reconocimiento en el Escalafón del Magisterio.\""
    }
   ]
  },

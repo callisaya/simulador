@@ -8,6 +8,8 @@ La alternativa correcta es la que está en negritas.
 
 Uso:
     python tools/importar_docx.py "carpeta/con/docx" ["otra/carpeta" | "archivo.docx" ...]
+    python tools/importar_docx.py --reemplazar ley-070 "070.docx"   (solo una normativa)
+    Añade --incluir-repetidas para no omitir preguntas con alternativas repetidas.
 """
 import json
 import re
@@ -18,6 +20,11 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+
+# Con --incluir-repetidas se cargan también las preguntas con alternativas repetidas.
+INCLUDE_REPEATED = "--incluir-repetidas" in sys.argv
+if INCLUDE_REPEATED:
+    sys.argv.remove("--incluir-repetidas")
 
 # Archivo .docx (por prefijo) -> id y título de la tarjeta en index.html
 NORMATIVAS = [
@@ -143,7 +150,8 @@ def parse_block(text, mask, number, start, end, problems):
         problems.append(f"pregunta {number}: se encontraron {len(marks)} alternativas")
         return None
 
-    stem = clean(text[start:marks[0][0]])
+    # Algunos documentos ponen una línea "Respuesta" entre el enunciado y las alternativas.
+    stem = clean(re.sub(r"\n\s*Respuestas?\s*:?\s*$", "", text[start:marks[0][0]]))
     options, ratios = [], []
     for i, (_, opt_start) in enumerate(marks):
         opt_end = marks[i + 1][0] if i < 3 else body_end
@@ -162,6 +170,11 @@ def parse_block(text, mask, number, start, end, problems):
     if not stem or any(not o for o in options):
         problems.append(f"pregunta {number}: enunciado o alternativa vacía")
         return None
+    if len({o.lower() for o in options}) < 4:
+        if not INCLUDE_REPEATED:
+            problems.append(f"pregunta {number}: alternativas repetidas, se omite")
+            return None
+        problems.append(f"pregunta {number}: alternativas repetidas (incluida)")
     return {"q": stem, "options": options, "answer": correct[0], "feedback": feedback}
 
 
@@ -183,7 +196,43 @@ def parse_file(path):
     return questions, problems
 
 
+def write_bank(out, bank):
+    out.parent.mkdir(exist_ok=True)
+    out.write_text(
+        "// Generado por tools/importar_docx.py. No editar a mano.\n"
+        "window.QUESTION_BANK = " + json.dumps(bank, ensure_ascii=False, indent=1) + ";\n",
+        encoding="utf-8",
+    )
+    print(f"\nEscrito {out}")
+
+
+def replace_one(out, law_id, path):
+    """Reemplaza las preguntas de una sola normativa y conserva las demás."""
+    source = out.read_text(encoding="utf-8")
+    bank = json.loads(source[source.index("{"):source.rindex("}") + 1])
+    if law_id not in bank:
+        print(f"[!] {law_id} no existe en {out.name}; ids: {', '.join(bank)}")
+        return 1
+    questions, problems = parse_file(Path(path))
+    for p in problems:
+        print(f"    - {p}")
+    if not questions:
+        print("[!] No se encontraron preguntas; no se modifica el banco")
+        return 1
+    print(f"{law_id}: {len(bank[law_id]['questions'])} -> {len(questions)} preguntas  ({Path(path).name})")
+    bank[law_id]["questions"] = questions
+    write_bank(out, bank)
+    return 0
+
+
 def main():
+    out = Path(__file__).resolve().parent.parent / "data" / "preguntas.js"
+    if sys.argv[1:2] == ["--reemplazar"]:
+        if len(sys.argv) != 4:
+            print("Uso: python tools/importar_docx.py --reemplazar <id> <archivo.docx>")
+            return 2
+        return replace_one(out, sys.argv[2], sys.argv[3])
+
     # Acepta carpetas y/o archivos .docx; si un nombre se repite, gana el último indicado.
     by_name = {}
     for arg in sys.argv[1:] or ["."]:
@@ -191,7 +240,6 @@ def main():
         for f in [source] if source.is_file() else sorted(source.glob("*.docx")):
             by_name[f.name] = f
     files = list(by_name.values())
-    out = Path(__file__).resolve().parent.parent / "data" / "preguntas.js"
     bank, ok = {}, True
     for prefix, law_id, title in NORMATIVAS:
         match = [f for f in files if f.name.startswith(prefix)]
@@ -204,13 +252,7 @@ def main():
         print(f"{law_id:28} {len(questions):4} preguntas  ({match[0].name})")
         for p in problems:
             print(f"    - {p}")
-    out.parent.mkdir(exist_ok=True)
-    out.write_text(
-        "// Generado por tools/importar_docx.py. No editar a mano.\n"
-        "window.QUESTION_BANK = " + json.dumps(bank, ensure_ascii=False, indent=1) + ";\n",
-        encoding="utf-8",
-    )
-    print(f"\nEscrito {out}")
+    write_bank(out, bank)
     return 0 if ok else 1
 
 

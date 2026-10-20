@@ -21,6 +21,10 @@ const nextButton = document.querySelector("#nextButton");
 const nextLabel = document.querySelector("#nextLabel");
 const finishButton = document.querySelector("#finishButton");
 const finishDialog = document.querySelector("#finishDialog");
+const exitDialog = document.querySelector("#exitDialog");
+const reviewList = document.querySelector("#reviewList");
+const reviewEmpty = document.querySelector("#reviewEmpty");
+const reviewFilters = document.querySelectorAll(".review-filter");
 
 const LETTERS = ["A", "B", "C", "D"];
 const ICON_CHECK = '<svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
@@ -198,6 +202,7 @@ function unansweredCount() {
 function finishQuiz() {
   stopTimer();
   if (finishDialog.open) finishDialog.close();
+  if (exitDialog.open) exitDialog.close();
   quiz.finished = true;
 
   const total = quiz.questions.length;
@@ -261,19 +266,65 @@ function showReview() {
     return item;
   });
 
+  const total = quiz.questions.length;
   const correct = quiz.questions.filter((q, i) => quiz.answers[i] === q.answer).length;
+  const blank = unansweredCount();
   document.querySelector("#reviewSummary").textContent =
-    `${correct} de ${quiz.questions.length} respuestas correctas · ${unansweredCount()} sin responder`;
-  document.querySelector("#reviewList").replaceChildren(...items);
+    `${correct} de ${total} respuestas correctas · ${blank} sin responder`;
+  document.querySelector("#filterAll").textContent = total;
+  document.querySelector("#filterWrong").textContent = total - correct - blank;
+  document.querySelector("#filterBlank").textContent = blank;
+  reviewList.replaceChildren(...items);
+  filterReview("all");
   showPanel("review");
 }
 
-function exitQuiz() {
-  const answered = quiz.answers.some((a) => a !== null);
-  if (!quiz.finished && answered && !confirm("¿Salir del simulacro? Se perderá tu progreso.")) return;
+const EMPTY_FILTER = {
+  wrong: "No tienes respuestas incorrectas.",
+  blank: "Respondiste todas las preguntas.",
+};
+
+function filterReview(filter) {
+  let visible = 0;
+  reviewList.querySelectorAll(".review-item").forEach((item) => {
+    const show = filter === "all" || item.classList.contains(`is-${filter}`);
+    item.hidden = !show;
+    if (show) visible++;
+  });
+  reviewFilters.forEach((button) => {
+    button.setAttribute("aria-pressed", String(button.dataset.filter === filter));
+  });
+  reviewEmpty.hidden = visible > 0;
+  reviewEmpty.textContent = EMPTY_FILTER[filter] || "";
+}
+
+reviewFilters.forEach((button) => {
+  button.addEventListener("click", () => filterReview(button.dataset.filter));
+});
+
+function leaveQuiz() {
+  if (exitDialog.open) exitDialog.close();
   stopTimer();
   showView("home");
 }
+
+function exitQuiz() {
+  const answered = quiz.answers.filter((a) => a !== null).length;
+  if (quiz.finished || !answered) {
+    leaveQuiz();
+    return;
+  }
+  const plural = answered === 1 ? "respuesta" : "respuestas";
+  document.querySelector("#exitMessage").textContent =
+    `Llevas ${answered} ${plural} de ${quiz.questions.length}. Si sales ahora, se perderá tu progreso.`;
+  exitDialog.showModal();
+}
+
+document.querySelector("#exitCancel").addEventListener("click", () => exitDialog.close());
+document.querySelector("#exitConfirm").addEventListener("click", leaveQuiz);
+exitDialog.addEventListener("click", (event) => {
+  if (event.target === exitDialog) exitDialog.close();
+});
 
 prevButton.addEventListener("click", () => goTo(quiz.index - 1));
 nextButton.addEventListener("click", () => {

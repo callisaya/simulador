@@ -13,6 +13,18 @@ menuButton.addEventListener("click", () => {
   menuButton.setAttribute("aria-expanded", String(willOpen));
 });
 
+const aboutDialog = document.querySelector("#aboutDialog");
+document.querySelector("#aboutLink").addEventListener("click", (event) => {
+  event.preventDefault();
+  mobileMenu.hidden = true;
+  menuButton.setAttribute("aria-expanded", "false");
+  aboutDialog.showModal();
+});
+document.querySelector("#aboutClose").addEventListener("click", () => aboutDialog.close());
+aboutDialog.addEventListener("click", (event) => {
+  if (event.target === aboutDialog) aboutDialog.close();
+});
+
 function fillQuestionOptions(total) {
   const sizes = [10, 20, 50].filter((size) => size < total);
   setupQuestions.innerHTML = "";
